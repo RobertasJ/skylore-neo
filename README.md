@@ -15,9 +15,10 @@ Please run every command at the root of the instance. To be able to run Instance
    - For Linux, run `.sh` files.
 
 To switch between the main and dev branches:
-1. Run `git checkout TeamAOF/main` or `git checkout TeamAOF/dev`.
-2. Make sure to run `git pull` afterwards.
-
+1. Run `git branch`.
+2. Run `git checkout branch/name`.
+3. Run `git fetch` and `git reset --hard "@{u}"`.
+This is for setup of a branch only. you can `git pull` afterwards to not loose progress but you might have to take care of a merge conflict where you want to take the changes from the repo.
 ### Commiting changes
 
 If you have added or removed mods, please run the `create_mod_list` script. If that fails, as a failsafe, you can use the `extract_from_cf` script, but you have to run the script in a CurseForge instance for it to work.
