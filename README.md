@@ -18,7 +18,7 @@ To switch between the main and dev branches:
 1. Run `git branch`.
 2. Run `git checkout branch/name`.
 3. Run `git fetch` and `git reset --hard "@{u}"`.
-This is for setup of a branch only. you can `git pull` afterwards to not loose progress but you might have to take care of a merge conflict where you want to take the changes from the repo.
+This is for setup of a branch only. you can `git pull --rebase` afterwards to not loose progress. You might have to take care of a merge conflict.
 ### Commiting changes
 
 If you have added or removed mods, please run the `create_mod_list` script. If that fails, as a failsafe, you can use the `extract_from_cf` script, but you have to run the script in a CurseForge instance for it to work.
@@ -37,7 +37,7 @@ If you instead want to include a whole folder and its contents, please add:
 
 ### Updating the Pack
 
-If you are not using an autosync pack, you will need to run `git pull` to get the latest changes. If that doesn't work and you don't have any work done, and `git pull` fails, run `git reset --hard "@{u}"`.
+If you are not using an autosync pack, you will need to run `git pull --rebase` to get the latest changes. If that doesn't work and you don't have any work done, and `git pull --rebase` fails, run `git reset --hard "@{u}"`, thid will remove all changes.
 
 ### Extras
 
