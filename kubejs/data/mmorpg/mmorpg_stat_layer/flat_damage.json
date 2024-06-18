@@ -1,8 +1,0 @@
-{
-  "action": "ADD",
-  "id": "flat_damage",
-  "max_multi": 2.14748365E9,
-  "min_multi": -2.14748365E9,
-  "name": "Flat Damage",
-  "priority": 0
-}

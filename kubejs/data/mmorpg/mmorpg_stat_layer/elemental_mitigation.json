@@ -1,8 +1,0 @@
-{
-  "action": "MULTIPLY",
-  "id": "elemental_mitigation",
-  "max_multi": 2.14748365E9,
-  "min_multi": 0.1,
-  "name": "Elemental Mitigation",
-  "priority": 101
-}

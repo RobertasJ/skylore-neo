@@ -1,8 +1,10 @@
 *
 !*/
 !.gitignore
-!kubejs/**
+!kubejs/data/skylands/worldgeb/noise/continentalness.json
+!kubejs/data/skylands/worldgeb/noise/islands.json
 !shaderpacks/**
+!config/mmorpg-client.toml
 
 # scripts
 !scripts/**

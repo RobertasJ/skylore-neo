@@ -1,8 +1,0 @@
-{
-    "variants": {
-        "facing=north": { "model": "mmorpg:block/green_totem" },
-        "facing=south": { "model": "mmorpg:block/green_totem", "y": 180 },
-        "facing=west":  { "model": "mmorpg:block/green_totem", "y": 270 },
-        "facing=east":  { "model": "mmorpg:block/green_totem", "y": 90 }
-    }
-}

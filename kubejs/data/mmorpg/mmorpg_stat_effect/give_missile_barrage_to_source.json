@@ -1,7 +1,0 @@
-{
-  "effect": "missile_barrage",
-  "give_to": "Source",
-  "id": "give_missile_barrage_to_source",
-  "seconds": 30,
-  "ser": "give_exile_effect"
-}

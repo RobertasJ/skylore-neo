@@ -1,9 +1,0 @@
-{
-  "cost_multi": 3.0,
-  "data": "unique",
-  "id": "unique",
-  "lvl_req": 25,
-  "modifier_type": "GEAR_RARITY",
-  "tier_req": 25,
-  "weight": 50
-}

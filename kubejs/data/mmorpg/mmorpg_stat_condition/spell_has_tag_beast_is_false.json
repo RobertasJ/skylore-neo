@@ -1,8 +1,0 @@
-{
-  "id": "spell_has_tag_beast_is_false",
-  "is": false,
-  "ser": "spell_has_tag",
-  "tag": {
-    "id": "beast"
-  }
-}

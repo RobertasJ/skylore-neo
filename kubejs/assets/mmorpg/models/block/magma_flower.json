@@ -1,6 +1,0 @@
-{
-    "parent": "block/cross",
-    "textures": {
-        "cross": "mmorpg:block/magma_flower"
-    }
-}

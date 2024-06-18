@@ -1,8 +1,0 @@
-{
-  "id": "spell_has_tag_cast_speed_to_cooldown_is_false",
-  "is": false,
-  "ser": "spell_has_tag",
-  "tag": {
-    "id": "cast_speed_to_cooldown"
-  }
-}

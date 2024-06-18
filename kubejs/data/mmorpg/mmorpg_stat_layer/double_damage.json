@@ -1,8 +1,0 @@
-{
-  "action": "MULTIPLY",
-  "id": "double_damage",
-  "max_multi": 2.0,
-  "min_multi": 2.0,
-  "name": "Double Damage",
-  "priority": 3
-}

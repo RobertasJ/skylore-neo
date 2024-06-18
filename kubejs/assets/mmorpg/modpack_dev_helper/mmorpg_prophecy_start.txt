@@ -1,8 +1,0 @@
-These are all default registry entries of this type.
-This registry can't be modified or added to.
-aura_gem
-gear
-jewel
-prophecy_unique
-rune
-support_gem

@@ -1,7 +1,0 @@
-{
-  "id": "spell_has_tag_holy",
-  "ser": "spell_has_tag",
-  "tag": {
-    "id": "holy"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "id": "spell_has_tag_totem_is_false",
-  "is": false,
-  "ser": "spell_has_tag",
-  "tag": {
-    "id": "totem"
-  }
-}

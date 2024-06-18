@@ -1,7 +1,0 @@
-{
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "mmorpg:item/stat_soul/helmet",
-        "layer1": "mmorpg:item/stat_soul/question"
-    }
-}
