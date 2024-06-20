@@ -9,23 +9,19 @@ TODO: Add description of the pack
 Please run every command at the root of the instance. To be able to run InstanceSync.jar you need to have java 21 installed and set as the default.
 
 1. Download one of the instances in the releases.
-2. Run `git fetch`, then `git reset --hard "@{u}"` to get the latest changes.
-3. Run the `setup` script in the `scripts` folder:
-   - For Windows, run `.bat` files.
-   - For Linux, run `.sh` files.
+2. Run `sync.sh` or `sync.bat` depending on your OS.
 
 To switch between the main and dev branches:
 1. Run `git branch`.
 2. Run `git checkout branch/name`.
-3. Run `git fetch` and `git reset --hard "@{u}"`.
+3. Run the `sync` script.
 This is for setup of a branch only.
 
 To update while keeping your changes:
 1. Run `git pull --rebase`.
 
 To update while discarding any changes:
-1. Run `git fetch`.
-2. Run `git reset --hard "@{u}"`.
+1. Run the `sync` script.
 ### Commiting changes
 
 If you have added or removed mods, please run the `create_mod_list` script. If that fails, as a failsafe, you can use the `extract_from_cf` script, but you have to run the script in a CurseForge instance for it to work.
@@ -43,8 +39,7 @@ If you instead want to include a whole folder and its contents, please add:
 ```
 
 ### Updating the Pack
-
-If you are not using an autosync pack, you will need to run `git pull --rebase` to get the latest changes. If that doesn't work and you don't have any work done, and `git pull --rebase` fails, run `git reset --hard "@{u}"`, thid will remove all changes.
+Run the `sync` script. IF you wish to keep your changes run `git pull --rebase`, you might have to take care of a merge conflict.
 
 ### Extras
 
