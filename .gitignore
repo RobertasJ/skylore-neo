@@ -7,7 +7,9 @@
 !config/fancymenu/**
 !minemenu/**
 !config/starterstructure/schematics/**
-
+!config/alexsmobs/**
+!config/starterstructure.json5
+!config/alexsmobs.toml
 
 # scripts
 !scripts/**
