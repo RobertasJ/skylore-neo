@@ -9,7 +9,6 @@
 	render_mob_hp_gui = true
 	only_render_mob_looked_at = true
 	render_floating_damage = true
-	ALIGN_STAT_TOOLTIPS = false
 	MODIFY_TOOLTIP_LENGTH = true
 	IN_DEPTH_TOOLTIPS_BY_DEFAULT = true
 	#Range: 0.0 ~ 1.0
@@ -26,4 +25,5 @@
 	SKILL_TREE_ZOOM_SPEED = 0.15
 	#Range: 0 ~ 1000
 	REMOVE_EMPTY_TOOLTIP_LINES_IF_MORE_THAN_X_LINES = 35
+	HOTBAR_SWAPPING = false
 

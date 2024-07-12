@@ -1,0 +1,55 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = net.minecraft.class_435
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1718779618838
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:2d567066-7e56-4a3c-b730-0bb51db58099-1718779618838] = [groups:][instances:]
+}
+
+menu_background {
+  image_path = [source:local]config/solidbg.png
+  slide = false
+  repeat_texture = false
+  background_type = image
+}
+
+customization {
+  action = backgroundoptions
+  keepaspectratio = false
+}
+
+scroll_list_customization {
+  preserve_scroll_list_header_footer_aspect_ratio = true
+  render_scroll_list_header_shadow = true
+  render_scroll_list_footer_shadow = true
+  show_scroll_list_header_footer_preview_in_editor = false
+  repeat_scroll_list_header_texture = false
+  repeat_scroll_list_footer_texture = false
+}
+
+element {
+  animation_name = hexy
+  element_type = animation
+  instance_identifier = f03fb4f5-9115-4404-b27a-b2f300e1cad11662045763855
+  appearance_delay = no_delay
+  appearance_delay_seconds = 1.0
+  fade_in = false
+  fade_in_speed = 1.0
+  anchor_point = bottom-centered
+  x = -59
+  y = -100
+  width = 118
+  height = 100
+  stretch_x = false
+  stretch_y = false
+  stay_on_screen = false
+  element_loading_requirement_container_identifier = d9cd520c-9276-4321-9b28-cb5f8cad6480-1718779618838
+  [loading_requirement_container_meta:d9cd520c-9276-4321-9b28-cb5f8cad6480-1718779618838] = [groups:][instances:]
+}
+

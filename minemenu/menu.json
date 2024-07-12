@@ -1,0 +1,50 @@
+{
+  "main": {
+    "6": {
+      "title": "Advancements",
+      "icon": {
+        "stack": "{Count:1b,id:\"createdeco:gold_coin\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.advancements",
+          "toggle": true
+        }
+      }
+    },
+    "7": {
+      "title": "Research",
+      "icon": {
+        "stack": "{Count:1b,id:\"mmorpg:potion/health/0\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.heracles.open_quests",
+          "toggle": true
+        }
+      }
+    },
+    "8": {
+      "title": "Settings",
+      "icon": {
+        "stack": "{Count:1b,id:\"create:large_cogwheel\"}"
+      },
+      "action": {
+        "category": "Settings"
+      }
+    },
+    "9": {
+      "title": "HUB",
+      "icon": {
+        "stack": "{Count:1b,id:\"mmorpg:skill_gems/skill/dex\"}"
+      },
+      "action": {
+        "key": {
+          "key": "hub_screen",
+          "toggle": true
+        }
+      }
+    }
+  },
+  "Settings": {}
+}

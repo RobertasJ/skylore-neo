@@ -5,6 +5,8 @@
 !kubejs/data/skylands/worldgeb/noise/islands.json
 !shaderpacks/**
 !config/mmorpg-client.toml
+!config/fancymenu/**
+!minemenu/**
 
 # scripts
 !scripts/**
