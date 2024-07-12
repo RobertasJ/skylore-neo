@@ -1,12 +1,13 @@
 *
 !*/
 !.gitignore
-!kubejs/data/skylands/worldgeb/noise/continentalness.json
-!kubejs/data/skylands/worldgeb/noise/islands.json
+!kubejs/**
 !shaderpacks/**
 !config/mmorpg-client.toml
 !config/fancymenu/**
 !minemenu/**
+!config/starterstructure/schematics/**
+
 
 # scripts
 !scripts/**

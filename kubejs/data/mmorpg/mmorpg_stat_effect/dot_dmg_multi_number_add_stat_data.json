@@ -1,0 +1,12 @@
+{
+  "id": "dot_dmg_multi_number_add_stat_data",
+  "layer": "dot_dmg_multi",
+  "modification": "ADD",
+  "number_modifiers": [],
+  "number_provider": {
+    "type": "STAT_DATA",
+    "calc": ""
+  },
+  "number_to_modify": "number",
+  "ser": "modify_stat_layer"
+}

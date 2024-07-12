@@ -1,0 +1,8 @@
+{
+  "action": "MULTIPLY",
+  "id": "dot_dmg_multi",
+  "max_multi": 2.14748365E9,
+  "min_multi": -1.0,
+  "name": "DOT Damage Multi",
+  "priority": 1
+}

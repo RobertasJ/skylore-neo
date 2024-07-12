@@ -56,6 +56,12 @@
     },
     {
       "installedFile": {
+        "fileNameOnDisk": "biomemusic-1.20.1-2.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5062/640/biomemusic-1.20.1-2.3.jar"
+      }
+    },
+    {
+      "installedFile": {
         "fileNameOnDisk": "BiomesOPlenty-1.20.1-18.0.0.598.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/4764/804/BiomesOPlenty-1.20.1-18.0.0.598.jar"
       }
