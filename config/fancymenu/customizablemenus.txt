@@ -30,3 +30,6 @@ net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen {
 net.minecraftforge.client.gui.ModListScreen {
 }
 
+net.minecraft.client.gui.screens.OptionsScreen {
+}
+
