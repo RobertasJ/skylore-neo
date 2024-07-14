@@ -206,6 +206,12 @@
     },
     {
       "installedFile": {
+        "fileNameOnDisk": "drippyloadingscreen_forge_3.0.1_MC_1.20.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5117/77/drippyloadingscreen_forge_3.0.1_MC_1.20.1.jar"
+      }
+    },
+    {
+      "installedFile": {
         "fileNameOnDisk": "dynamic-fps-3.6.0+minecraft-1.20.0-forge.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/5489/902/dynamic-fps-3.6.0%2bminecraft-1.20.0-forge.jar"
       }
@@ -538,6 +544,12 @@
       "installedFile": {
         "fileNameOnDisk": "scannable-MC1.20.1-forge-1.7.12+18ccb75.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/4763/70/scannable-MC1.20.1-forge-1.7.12+18ccb75.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "seamless-loading-screen-2.0.3+1.20.1-forge.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/4755/295/seamless-loading-screen-2.0.3+1.20.1-forge.jar"
       }
     },
     {
