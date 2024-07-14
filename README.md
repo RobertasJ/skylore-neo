@@ -43,4 +43,5 @@ Run the `sync` script. IF you wish to keep your changes run `git pull --rebase`,
 
 ### Extras
 
-Some parts of the modpack need their own `README.md` files because of the lack of information on how to contribute in that part. Make sure to look for them.
+ - [Kubejs assets and data](https://wiki.latvian.dev/books/kubejs-legacy/page/loading-assets-and-data)
+ - [default options](https://wiki.latvian.dev/books/kubejs-legacy/page/default-options)
