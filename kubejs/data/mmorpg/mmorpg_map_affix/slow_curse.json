@@ -1,0 +1,16 @@
+{
+  "affected": "Players",
+  "id": "slow_curse",
+  "map_resist": "Physical",
+  "map_resist_bonus_needed": 0,
+  "req": "",
+  "stats": [
+    {
+      "type": "FLAT",
+      "max": 1.0,
+      "min": 1.0,
+      "stat": "cursed_by_slow"
+    }
+  ],
+  "weight": 1000
+}

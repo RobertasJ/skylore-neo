@@ -1,0 +1,32 @@
+{
+  "base_gear": "ring",
+  "flavor_text": "",
+  "force_item_id": "",
+  "guid": "air_disaster",
+  "league": "",
+  "min_tier": 0,
+  "rarity": "unique",
+  "replaces_name": true,
+  "runable": false,
+  "unique_stats": [
+    {
+      "type": "FLAT",
+      "max": 30.0,
+      "min": 15.0,
+      "stat": "inc_effect_of_song_buff_given"
+    },
+    {
+      "type": "FLAT",
+      "max": 15.0,
+      "min": 5.0,
+      "stat": "area_dmg"
+    },
+    {
+      "type": "FLAT",
+      "max": 10.0,
+      "min": 3.0,
+      "stat": "mana_regen"
+    }
+  ],
+  "weight": 1000
+}

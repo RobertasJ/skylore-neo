@@ -1,0 +1,8 @@
+{
+  "action": "ADD",
+  "id": "damage_conversion",
+  "max_multi": 2.14748365E9,
+  "min_multi": -2.14748365E9,
+  "name": "Damage Conversion",
+  "priority": -2147483647
+}

@@ -1,0 +1,21 @@
+{
+  "type": "MAJOR",
+  "icon": "mmorpg:textures/gui/stat_icons/game_changers/minion_catapult.png",
+  "id": "minion_catapult",
+  "is_entry": false,
+  "max_lvls": 1,
+  "stats": [
+    {
+      "type": "MORE",
+      "scale_to_lvl": false,
+      "stat": "summon_damage",
+      "v1": 20.0
+    },
+    {
+      "type": "MORE",
+      "scale_to_lvl": false,
+      "stat": "summon_health",
+      "v1": -33.0
+    }
+  ]
+}

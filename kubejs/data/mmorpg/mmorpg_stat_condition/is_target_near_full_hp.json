@@ -1,0 +1,6 @@
+{
+  "id": "is_target_near_full_hp",
+  "perc": 70,
+  "ser": "is_hp_above",
+  "side": "Target"
+}

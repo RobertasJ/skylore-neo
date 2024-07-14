@@ -1,0 +1,24 @@
+{
+  "data": {
+    "base": 0.0,
+    "core_stat_data": {
+      "stats": [
+        {
+          "type": "FLAT",
+          "scale_to_lvl": false,
+          "stat": "critical_damage",
+          "v1": 1.0
+        }
+      ]
+    },
+    "effect_id": "power_charge",
+    "ele": "Physical",
+    "id": "crit_dmg_per_power_charge",
+    "max": 2.14748365E9,
+    "min": 0.0,
+    "name": "Crit Damage per Power Charge",
+    "perc": false,
+    "scale": "NONE"
+  },
+  "ser": "bonus_stat_per_effect"
+}

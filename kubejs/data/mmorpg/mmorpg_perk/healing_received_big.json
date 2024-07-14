@@ -1,0 +1,15 @@
+{
+  "type": "SPECIAL",
+  "icon": "mmorpg:textures/gui/stat_icons/restoration/heal_effect_on_self.png",
+  "id": "healing_received_big",
+  "is_entry": false,
+  "max_lvls": 1,
+  "stats": [
+    {
+      "type": "FLAT",
+      "scale_to_lvl": false,
+      "stat": "heal_effect_on_self",
+      "v1": 10.0
+    }
+  ]
+}

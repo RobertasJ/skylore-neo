@@ -1,0 +1,38 @@
+{
+  "base_gear": "necklace",
+  "flavor_text": "",
+  "force_item_id": "",
+  "guid": "master_torture",
+  "league": "",
+  "min_tier": 0,
+  "rarity": "unique",
+  "replaces_name": false,
+  "runable": false,
+  "unique_stats": [
+    {
+      "type": "FLAT",
+      "max": 50.0,
+      "min": 25.0,
+      "stat": "damage_to_cursed"
+    },
+    {
+      "type": "FLAT",
+      "max": 25.0,
+      "min": 10.0,
+      "stat": "chaos_resist"
+    },
+    {
+      "type": "FLAT",
+      "max": 25.0,
+      "min": 10.0,
+      "stat": "water_resist"
+    },
+    {
+      "type": "FLAT",
+      "max": 25.0,
+      "min": 10.0,
+      "stat": "fire_resist"
+    }
+  ],
+  "weight": 1000
+}

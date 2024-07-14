@@ -1,0 +1,28 @@
+{
+  "type": "tool",
+  "eye_aura_req": "",
+  "guid": "farming_double",
+  "only_one_per_item": true,
+  "requirements": {
+    "tag_requirements": [
+      {
+        "type": "GearSlot",
+        "excluded": [],
+        "included": [
+          "tool",
+          "farming_tool"
+        ],
+        "req_type": "INCLUDES_ANY"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "type": "FLAT",
+      "max": 10.0,
+      "min": 1.0,
+      "stat": "farming_double_drop"
+    }
+  ],
+  "weight": 1000
+}

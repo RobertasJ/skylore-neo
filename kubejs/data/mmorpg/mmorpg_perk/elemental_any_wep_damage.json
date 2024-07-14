@@ -1,0 +1,15 @@
+{
+  "type": "STAT",
+  "icon": "mmorpg:textures/gui/stat_icons/weapon/elemental_any_wep_damage.png",
+  "id": "elemental_any_wep_damage",
+  "is_entry": false,
+  "max_lvls": 1,
+  "stats": [
+    {
+      "type": "FLAT",
+      "scale_to_lvl": false,
+      "stat": "elemental_any_wep_damage",
+      "v1": 3.0
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "effect": "taunt_stance",
+  "give_to": "Source",
+  "id": "give_taunt_stance_to_source",
+  "seconds": 30,
+  "ser": "give_exile_effect"
+}

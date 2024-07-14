@@ -1,0 +1,32 @@
+{
+  "id": "fey",
+  "item_id": "mmorpg:runes/fey",
+  "min_lvl_multi": 0.2,
+  "on_armor_stats": [
+    {
+      "type": "PERCENT",
+      "max": 5.0,
+      "min": 1.0,
+      "stat": "energy_regen"
+    }
+  ],
+  "on_jewelry_stats": [
+    {
+      "type": "FLAT",
+      "max": 1.0,
+      "min": 0.2,
+      "stat": "energy_regen"
+    }
+  ],
+  "on_weapons_stats": [
+    {
+      "type": "FLAT",
+      "max": 1.0,
+      "min": 0.2,
+      "stat": "energy_on_hit_hit"
+    }
+  ],
+  "tier": 1,
+  "uses_unlucky_ran": true,
+  "weight": 1000
+}

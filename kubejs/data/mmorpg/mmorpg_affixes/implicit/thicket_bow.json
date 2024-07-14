@@ -1,0 +1,27 @@
+{
+  "type": "implicit",
+  "eye_aura_req": "",
+  "guid": "thicket_bow",
+  "only_one_per_item": true,
+  "requirements": {
+    "tag_requirements": [
+      {
+        "type": "GearSlot",
+        "excluded": [],
+        "included": [
+          "bow"
+        ],
+        "req_type": "HAS_ALL"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "type": "FLAT",
+      "max": 10.0,
+      "min": 5.0,
+      "stat": "projectile_damage"
+    }
+  ],
+  "weight": 1000
+}

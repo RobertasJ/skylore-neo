@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mmorpg:material/fishing/5"
+    }
+  ],
+  "result": {
+    "item": "mmorpg:material/fishing/4"
+  }
+}

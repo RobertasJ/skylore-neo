@@ -1,0 +1,12 @@
+{
+  "id": "additive_damage_number_add_stat_data",
+  "layer": "additive_damage",
+  "modification": "ADD",
+  "number_modifiers": [],
+  "number_provider": {
+    "type": "STAT_DATA",
+    "calc": ""
+  },
+  "number_to_modify": "number",
+  "ser": "modify_stat_layer"
+}

@@ -1,0 +1,16 @@
+{
+  "affected": "Players",
+  "id": "prophecy_ele_dmglightning",
+  "map_resist": "Physical",
+  "map_resist_bonus_needed": 0,
+  "req": "prophecy",
+  "stats": [
+    {
+      "type": "FLAT",
+      "max": -50.0,
+      "min": -50.0,
+      "stat": "all_lightning_damage"
+    }
+  ],
+  "weight": 1000
+}

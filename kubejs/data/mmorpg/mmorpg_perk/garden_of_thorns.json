@@ -1,0 +1,15 @@
+{
+  "type": "STAT",
+  "icon": "mmorpg:textures/gui/spells/icons/garden_of_thorns.png",
+  "id": "garden_of_thorns",
+  "is_entry": false,
+  "max_lvls": 16,
+  "stats": [
+    {
+      "type": "FLAT",
+      "scale_to_lvl": false,
+      "stat": "learn_garden_of_thorns",
+      "v1": 1.0
+    }
+  ]
+}

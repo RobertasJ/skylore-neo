@@ -1,0 +1,33 @@
+{
+  "type": "implicit",
+  "eye_aura_req": "",
+  "guid": "cursed_staff",
+  "only_one_per_item": true,
+  "requirements": {
+    "tag_requirements": [
+      {
+        "type": "GearSlot",
+        "excluded": [],
+        "included": [
+          "staff"
+        ],
+        "req_type": "HAS_ALL"
+      }
+    ]
+  },
+  "stats": [
+    {
+      "type": "FLAT",
+      "max": 10.0,
+      "min": 5.0,
+      "stat": "all_chaos_damage"
+    },
+    {
+      "type": "FLAT",
+      "max": 10.0,
+      "min": 5.0,
+      "stat": "curse_eff_dur_u_cast"
+    }
+  ],
+  "weight": 1000
+}

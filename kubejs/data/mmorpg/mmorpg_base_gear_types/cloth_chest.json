@@ -1,0 +1,47 @@
+{
+  "base_stats": [
+    {
+      "type": "FLAT",
+      "max": 10.0,
+      "min": 5.0,
+      "stat": "magic_shield"
+    }
+  ],
+  "gear_slot": "chest",
+  "guid": "cloth_chest",
+  "possible_items": [
+    {
+      "item_id": "minecraft:iron_chestplate",
+      "min_rar": "common",
+      "weight": 1000
+    },
+    {
+      "item_id": "minecraft:diamond_chestplate",
+      "min_rar": "rare",
+      "weight": 1000
+    },
+    {
+      "item_id": "minecraft:netherite_chestplate",
+      "min_rar": "legendary",
+      "weight": 1000
+    }
+  ],
+  "req": {
+    "base_req": {},
+    "scaling_req": {
+      "intelligence": 0.5
+    }
+  },
+  "style": "STR",
+  "tags": {
+    "tags": [
+      "chest",
+      "armor_family",
+      "cloth_chest",
+      "magic_shield_stat",
+      "intelligence"
+    ]
+  },
+  "weapon_type": "none",
+  "weight": 1000
+}

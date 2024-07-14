@@ -1,0 +1,16 @@
+{
+  "affix_number": 1,
+  "affix_type": "chaos_stat",
+  "bonus_sockets": 0,
+  "for_item_rarities": [
+    "common",
+    "uncommon",
+    "rare",
+    "epic",
+    "legendary",
+    "mythic"
+  ],
+  "id": "normal_low",
+  "name": "Upgraded",
+  "weight": 5000
+}

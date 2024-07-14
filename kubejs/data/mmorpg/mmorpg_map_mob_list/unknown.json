@@ -1,0 +1,17 @@
+{
+  "id": "unknown",
+  "mobs": [
+    {
+      "type": "minecraft:pig",
+      "canBeBoss": false,
+      "tags": {
+        "tags": []
+      },
+      "weight": 200
+    }
+  ],
+  "possible_dungeon_tags": {
+    "tags": []
+  },
+  "weight": 0
+}

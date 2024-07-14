@@ -1,0 +1,5 @@
+{
+  "id": "increase_aggro_radius_num",
+  "num_id": "aggro_radius",
+  "ser": "increase_number"
+}

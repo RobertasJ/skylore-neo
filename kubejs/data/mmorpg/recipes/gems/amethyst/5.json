@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mmorpg:gems/amethyst/4"
+    },
+    {
+      "item": "mmorpg:gems/amethyst/4"
+    },
+    {
+      "item": "mmorpg:gems/amethyst/4"
+    }
+  ],
+  "result": {
+    "item": "mmorpg:gems/amethyst/5"
+  }
+}

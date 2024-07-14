@@ -1,0 +1,16 @@
+{
+  "data": {
+    "add_to": "magic_shield_regen",
+    "adder_stat": "health_regen",
+    "base": 0.0,
+    "ele": "Physical",
+    "id": "magic_shield_regen_per_1_health_regen",
+    "max": 2.14748365E9,
+    "min": 0.0,
+    "name": "§a[VAL1] §b★ Magic Shield Regen§7 per 1 §b★ Health Regen§7",
+    "per_amount": 1,
+    "perc": true,
+    "scale": "NONE"
+  },
+  "ser": "more_x_per_y"
+}

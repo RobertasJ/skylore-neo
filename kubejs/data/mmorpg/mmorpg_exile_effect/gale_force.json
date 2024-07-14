@@ -1,0 +1,31 @@
+{
+  "type": "beneficial",
+  "id": "gale_force",
+  "max_stacks": 20,
+  "mc_stats": [
+    {
+      "type": "MORE",
+      "id": "minecraft:generic.movement_speed",
+      "uuid": "3fb10485-f309-465f-afc6-a23b0d6cf4c1",
+      "val": 0.01
+    }
+  ],
+  "one_of_a_kind_id": "",
+  "spell_tags": {
+    "tags": []
+  },
+  "stacks_affect_stats": true,
+  "stats": [
+    {
+      "type": "PERCENT",
+      "max": 2.0,
+      "min": 2.0,
+      "stat": "dodge"
+    }
+  ],
+  "tags": {
+    "tags": [
+      "positive"
+    ]
+  }
+}

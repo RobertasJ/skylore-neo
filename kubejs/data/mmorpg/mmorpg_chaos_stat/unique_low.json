@@ -1,0 +1,12 @@
+{
+  "affix_number": 1,
+  "affix_type": "chaos_stat",
+  "bonus_sockets": 0,
+  "for_item_rarities": [
+    "unique",
+    "runeword"
+  ],
+  "id": "unique_low",
+  "name": "Upgraded",
+  "weight": 5000
+}

@@ -1,0 +1,35 @@
+{
+  "id": "the_novice",
+  "runes": [
+    "nos",
+    "dos",
+    "ita",
+    "mos"
+  ],
+  "slots": [
+    "sword",
+    "bow",
+    "crossbow",
+    "staff"
+  ],
+  "stats": [
+    {
+      "type": "PERCENT",
+      "max": 75.0,
+      "min": 30.0,
+      "stat": "gear_weapon_damage"
+    },
+    {
+      "type": "FLAT",
+      "max": 1.0,
+      "min": 1.0,
+      "stat": "energy_on_hit_hit"
+    },
+    {
+      "type": "FLAT",
+      "max": 1.0,
+      "min": 1.0,
+      "stat": "mana_on_hit_hit"
+    }
+  ]
+}

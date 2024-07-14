@@ -1,0 +1,7 @@
+{
+  "effect": "agony",
+  "give_to": "Target",
+  "id": "give_agony_to_target",
+  "seconds": 15,
+  "ser": "give_exile_effect"
+}

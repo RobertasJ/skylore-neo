@@ -1,0 +1,16 @@
+{
+  "affected": "Mobs",
+  "id": "water_atk",
+  "map_resist": "Cold",
+  "map_resist_bonus_needed": 25,
+  "req": "",
+  "stats": [
+    {
+      "type": "FLAT",
+      "max": 100.0,
+      "min": 25.0,
+      "stat": "plus_phys_to_water"
+    }
+  ],
+  "weight": 1000
+}

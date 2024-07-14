@@ -1,0 +1,36 @@
+{
+  "base": 0.0,
+  "effect": [
+    {
+      "effects": [
+        "increase_area_num"
+      ],
+      "events": [
+        "on_spell_stat_calc"
+      ],
+      "ifs": [
+        "spell_has_tag_area"
+      ],
+      "order": "data_modification",
+      "side": "Source"
+    }
+  ],
+  "ele": "Physical",
+  "format": "aqua",
+  "group": "Misc",
+  "gui_group": "NONE",
+  "has_softcap": false,
+  "icon": "★",
+  "id": "inc_aoe",
+  "is_long": false,
+  "is_perc": true,
+  "max": 100.0,
+  "min": -1000.0,
+  "minus_is_good": false,
+  "multiUseType": "MULTIPLY_STAT",
+  "order": 100,
+  "scaling": "NONE",
+  "ser": "data",
+  "show_in_gui": true,
+  "softcap": 0.0
+}

@@ -1,0 +1,7 @@
+{
+  "effect": "gale_force",
+  "give_to": "Source",
+  "id": "give_gale_force_to_source",
+  "seconds": 30,
+  "ser": "give_exile_effect"
+}

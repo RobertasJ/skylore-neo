@@ -1,0 +1,8 @@
+{
+  "id": "spell_has_tag_physical_is_false",
+  "is": false,
+  "ser": "spell_has_tag",
+  "tag": {
+    "id": "physical"
+  }
+}

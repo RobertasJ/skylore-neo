@@ -1,0 +1,32 @@
+{
+  "id": "oru",
+  "item_id": "mmorpg:runes/oru",
+  "min_lvl_multi": 0.4,
+  "on_armor_stats": [
+    {
+      "type": "FLAT",
+      "max": 5.0,
+      "min": 1.0,
+      "stat": "critical_damage"
+    }
+  ],
+  "on_jewelry_stats": [
+    {
+      "type": "FLAT",
+      "max": 10.0,
+      "min": 2.0,
+      "stat": "critical_damage"
+    }
+  ],
+  "on_weapons_stats": [
+    {
+      "type": "FLAT",
+      "max": 15.0,
+      "min": 5.0,
+      "stat": "critical_damage"
+    }
+  ],
+  "tier": 4,
+  "uses_unlucky_ran": true,
+  "weight": 500
+}

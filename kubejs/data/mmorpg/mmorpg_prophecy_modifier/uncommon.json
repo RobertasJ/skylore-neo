@@ -1,0 +1,9 @@
+{
+  "cost_multi": 1.1,
+  "data": "uncommon",
+  "id": "uncommon",
+  "lvl_req": 0,
+  "modifier_type": "GEAR_RARITY",
+  "tier_req": 0,
+  "weight": 100
+}

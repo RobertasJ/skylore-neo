@@ -1,0 +1,6 @@
+{
+  "id": "summon_type_is_spider",
+  "ser": "string_matches",
+  "string_id": "spider",
+  "string_key": "summon_type"
+}

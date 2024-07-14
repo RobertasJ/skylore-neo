@@ -1,0 +1,9 @@
+{
+  "cost_multi": 1.3,
+  "data": "epic",
+  "id": "epic",
+  "lvl_req": 25,
+  "modifier_type": "GEAR_RARITY",
+  "tier_req": 20,
+  "weight": 1000
+}

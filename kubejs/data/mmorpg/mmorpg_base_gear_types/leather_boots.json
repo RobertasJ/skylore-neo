@@ -1,0 +1,47 @@
+{
+  "base_stats": [
+    {
+      "type": "FLAT",
+      "max": 7.5,
+      "min": 5.0,
+      "stat": "dodge"
+    }
+  ],
+  "gear_slot": "boots",
+  "guid": "leather_boots",
+  "possible_items": [
+    {
+      "item_id": "minecraft:iron_boots",
+      "min_rar": "common",
+      "weight": 1000
+    },
+    {
+      "item_id": "minecraft:diamond_boots",
+      "min_rar": "rare",
+      "weight": 1000
+    },
+    {
+      "item_id": "minecraft:netherite_boots",
+      "min_rar": "legendary",
+      "weight": 1000
+    }
+  ],
+  "req": {
+    "base_req": {},
+    "scaling_req": {
+      "dexterity": 0.5
+    }
+  },
+  "style": "STR",
+  "tags": {
+    "tags": [
+      "leather_boots",
+      "dexterity",
+      "dodge_stat",
+      "armor_family",
+      "boots"
+    ]
+  },
+  "weapon_type": "none",
+  "weight": 1000
+}

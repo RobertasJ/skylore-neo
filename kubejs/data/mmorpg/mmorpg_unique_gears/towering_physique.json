@@ -1,0 +1,38 @@
+{
+  "base_gear": "cloth_chest",
+  "flavor_text": "",
+  "force_item_id": "",
+  "guid": "towering_physique",
+  "league": "",
+  "min_tier": 0,
+  "rarity": "unique",
+  "replaces_name": false,
+  "runable": false,
+  "unique_stats": [
+    {
+      "type": "PERCENT",
+      "max": 100.0,
+      "min": 50.0,
+      "stat": "gear_defense"
+    },
+    {
+      "type": "FLAT",
+      "max": 2.0,
+      "min": 1.0,
+      "stat": "mana_per_sec"
+    },
+    {
+      "type": "FLAT",
+      "max": 20.0,
+      "min": 20.0,
+      "stat": "magic_spell_dmg"
+    },
+    {
+      "type": "FLAT",
+      "max": 25.0,
+      "min": 10.0,
+      "stat": "physical_resist"
+    }
+  ],
+  "weight": 200
+}

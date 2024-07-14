@@ -1,0 +1,16 @@
+{
+  "affected": "Mobs",
+  "id": "crit",
+  "map_resist": "Physical",
+  "map_resist_bonus_needed": 0,
+  "req": "",
+  "stats": [
+    {
+      "type": "FLAT",
+      "max": 100.0,
+      "min": 25.0,
+      "stat": "critical_hit"
+    }
+  ],
+  "weight": 1000
+}

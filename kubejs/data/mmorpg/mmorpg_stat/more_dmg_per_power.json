@@ -1,0 +1,24 @@
+{
+  "data": {
+    "base": 0.0,
+    "core_stat_data": {
+      "stats": [
+        {
+          "type": "MORE",
+          "scale_to_lvl": false,
+          "stat": "total_damage",
+          "v1": 1.0
+        }
+      ]
+    },
+    "effect_id": "power_charge",
+    "ele": "Physical",
+    "id": "more_dmg_per_power",
+    "max": 2.14748365E9,
+    "min": 0.0,
+    "name": "Damage per Power Charge",
+    "perc": false,
+    "scale": "NONE"
+  },
+  "ser": "bonus_stat_per_effect"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "mmorpg:uber/frag_uber7_tier0"
+    }
+  },
+  "pattern": [
+    "XX",
+    "XX"
+  ],
+  "result": {
+    "item": "mmorpg:uber/map_uber7_tier0"
+  },
+  "show_notification": true
+}

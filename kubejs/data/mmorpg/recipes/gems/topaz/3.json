@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "mmorpg:gems/topaz/2"
+    },
+    {
+      "item": "mmorpg:gems/topaz/2"
+    },
+    {
+      "item": "mmorpg:gems/topaz/2"
+    }
+  ],
+  "result": {
+    "item": "mmorpg:gems/topaz/3"
+  }
+}

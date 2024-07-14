@@ -1,0 +1,7 @@
+{
+  "effect": "slow",
+  "give_to": "Source",
+  "id": "give_slow_to_source",
+  "seconds": 30,
+  "ser": "give_exile_effect"
+}

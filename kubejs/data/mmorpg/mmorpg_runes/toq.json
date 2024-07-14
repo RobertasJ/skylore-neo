@@ -1,0 +1,32 @@
+{
+  "id": "toq",
+  "item_id": "mmorpg:runes/toq",
+  "min_lvl_multi": 0.3,
+  "on_armor_stats": [
+    {
+      "type": "FLAT",
+      "max": 5.0,
+      "min": 1.0,
+      "stat": "non_crit_damage"
+    }
+  ],
+  "on_jewelry_stats": [
+    {
+      "type": "FLAT",
+      "max": 5.0,
+      "min": 1.0,
+      "stat": "critical_hit"
+    }
+  ],
+  "on_weapons_stats": [
+    {
+      "type": "FLAT",
+      "max": 10.0,
+      "min": 5.0,
+      "stat": "critical_hit"
+    }
+  ],
+  "tier": 2,
+  "uses_unlucky_ran": true,
+  "weight": 1000
+}

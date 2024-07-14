@@ -1,0 +1,16 @@
+{
+  "data": {
+    "add_to": "mana_regen",
+    "adder_stat": "magic_shield",
+    "base": 0.0,
+    "ele": "Physical",
+    "id": "mana_regen_per_500_magic_shield",
+    "max": 2.14748365E9,
+    "min": 0.0,
+    "name": "§a[VAL1] §b★ Mana Regen§7 per 500 §d❤ Magic Shield§7",
+    "per_amount": 500,
+    "perc": true,
+    "scale": "NONE"
+  },
+  "ser": "more_x_per_y"
+}

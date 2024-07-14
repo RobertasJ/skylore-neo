@@ -1,0 +1,8 @@
+{
+  "action": "MULTIPLY",
+  "id": "physical_mitigation",
+  "max_multi": 2.14748365E9,
+  "min_multi": 0.1,
+  "name": "Physical Mitigation",
+  "priority": 100
+}

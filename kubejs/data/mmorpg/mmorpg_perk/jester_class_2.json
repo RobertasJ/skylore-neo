@@ -1,0 +1,27 @@
+{
+  "type": "MAJOR",
+  "icon": "mmorpg:textures/gui/talent_icons/asc/jester/2.png",
+  "id": "jester_class_2",
+  "is_entry": false,
+  "max_lvls": 1,
+  "stats": [
+    {
+      "type": "FLAT",
+      "scale_to_lvl": false,
+      "stat": "increase_healing",
+      "v1": 10.0
+    },
+    {
+      "type": "FLAT",
+      "scale_to_lvl": false,
+      "stat": "mana_cost",
+      "v1": -20.0
+    },
+    {
+      "type": "MORE",
+      "scale_to_lvl": false,
+      "stat": "song_spell_dmg",
+      "v1": 25.0
+    }
+  ]
+}

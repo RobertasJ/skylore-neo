@@ -1,0 +1,16 @@
+{
+  "disable_salvaging": false,
+  "gear_type": "",
+  "id": "test_gen",
+  "max_lvl": 100,
+  "min_lvl": 1,
+  "possible_rar": [
+    "common",
+    "uncommon",
+    "rare",
+    "epic",
+    "legendary",
+    "mythic"
+  ],
+  "uniq_id": ""
+}

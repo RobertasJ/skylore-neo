@@ -1,0 +1,38 @@
+{
+  "base_gear": "ring",
+  "flavor_text": "",
+  "force_item_id": "",
+  "guid": "playful_hope",
+  "league": "",
+  "min_tier": 0,
+  "rarity": "unique",
+  "replaces_name": true,
+  "runable": false,
+  "unique_stats": [
+    {
+      "type": "FLAT",
+      "max": 25.0,
+      "min": -75.0,
+      "stat": "critical_damage"
+    },
+    {
+      "type": "FLAT",
+      "max": 15.0,
+      "min": -50.0,
+      "stat": "water_resist"
+    },
+    {
+      "type": "FLAT",
+      "max": 15.0,
+      "min": -50.0,
+      "stat": "fire_resist"
+    },
+    {
+      "type": "FLAT",
+      "max": 15.0,
+      "min": -50.0,
+      "stat": "chaos_resist"
+    }
+  ],
+  "weight": 1000
+}

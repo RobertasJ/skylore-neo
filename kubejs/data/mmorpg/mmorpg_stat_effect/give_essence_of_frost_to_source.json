@@ -1,0 +1,7 @@
+{
+  "effect": "essence_of_frost",
+  "give_to": "Source",
+  "id": "give_essence_of_frost_to_source",
+  "seconds": 30,
+  "ser": "give_exile_effect"
+}

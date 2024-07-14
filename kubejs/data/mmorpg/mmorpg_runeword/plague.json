@@ -1,0 +1,46 @@
+{
+  "id": "plague",
+  "runes": [
+    "ven",
+    "ano",
+    "ita",
+    "xer",
+    "har"
+  ],
+  "slots": [
+    "bow",
+    "staff"
+  ],
+  "stats": [
+    {
+      "type": "PERCENT",
+      "max": 150.0,
+      "min": 50.0,
+      "stat": "gear_weapon_damage"
+    },
+    {
+      "type": "FLAT",
+      "max": 2.0,
+      "min": 1.0,
+      "stat": "plus_lvl_all_spells"
+    },
+    {
+      "type": "FLAT",
+      "max": 15.0,
+      "min": 5.0,
+      "stat": "bleed_chance"
+    },
+    {
+      "type": "FLAT",
+      "max": 15.0,
+      "min": 10.0,
+      "stat": "poison_damage"
+    },
+    {
+      "type": "FLAT",
+      "max": 25.0,
+      "min": 10.0,
+      "stat": "chaos_penetration"
+    }
+  ]
+}

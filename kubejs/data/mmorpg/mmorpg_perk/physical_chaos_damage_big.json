@@ -1,0 +1,21 @@
+{
+  "type": "SPECIAL",
+  "icon": "mmorpg:textures/gui/stat_icons/elemental/all_physical_damage.png",
+  "id": "physical_chaos_damage_big",
+  "is_entry": false,
+  "max_lvls": 1,
+  "stats": [
+    {
+      "type": "FLAT",
+      "scale_to_lvl": false,
+      "stat": "all_physical_damage",
+      "v1": 6.0
+    },
+    {
+      "type": "FLAT",
+      "scale_to_lvl": false,
+      "stat": "all_chaos_damage",
+      "v1": 6.0
+    }
+  ]
+}

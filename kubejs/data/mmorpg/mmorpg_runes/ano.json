@@ -1,0 +1,32 @@
+{
+  "id": "ano",
+  "item_id": "mmorpg:runes/ano",
+  "min_lvl_multi": 0.2,
+  "on_armor_stats": [
+    {
+      "type": "FLAT",
+      "max": 0.75,
+      "min": 0.1,
+      "stat": "health_regen"
+    }
+  ],
+  "on_jewelry_stats": [
+    {
+      "type": "FLAT",
+      "max": 1.0,
+      "min": 0.1,
+      "stat": "mana_regen"
+    }
+  ],
+  "on_weapons_stats": [
+    {
+      "type": "FLAT",
+      "max": 3.0,
+      "min": 1.0,
+      "stat": "energy_regen"
+    }
+  ],
+  "tier": 2,
+  "uses_unlucky_ran": true,
+  "weight": 1000
+}

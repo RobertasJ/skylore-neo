@@ -1,0 +1,8 @@
+{
+  "action": "MULTIPLY",
+  "id": "additive_damage",
+  "max_multi": 2.14748365E9,
+  "min_multi": -1.0,
+  "name": "Additive Damage",
+  "priority": 1
+}

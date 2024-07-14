@@ -1,0 +1,21 @@
+{
+  "id": "empty",
+  "runes": [
+    "mos",
+    "net",
+    "ita",
+    "xer",
+    "har"
+  ],
+  "slots": [
+    "staff"
+  ],
+  "stats": [
+    {
+      "type": "PERCENT",
+      "max": 1.0,
+      "min": 1.0,
+      "stat": "gear_weapon_damage"
+    }
+  ]
+}

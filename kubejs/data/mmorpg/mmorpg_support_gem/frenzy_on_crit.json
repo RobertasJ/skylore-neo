@@ -1,0 +1,22 @@
+{
+  "id": "frenzy_on_crit",
+  "manaMulti": 1.2,
+  "min_lvl": 10,
+  "one_of_a_kind": "",
+  "stats": [
+    {
+      "type": "FLAT",
+      "max": 5.0,
+      "min": 2.0,
+      "stat": "more_dmg_per_frenzy"
+    },
+    {
+      "type": "FLAT",
+      "max": 10.0,
+      "min": 3.0,
+      "stat": "frenzy_charge_on_crit"
+    }
+  ],
+  "style": "DEX",
+  "weight": 1000
+}

@@ -1,0 +1,47 @@
+{
+  "base_stats": [
+    {
+      "type": "FLAT",
+      "max": 5.0,
+      "min": 2.5,
+      "stat": "magic_shield"
+    }
+  ],
+  "gear_slot": "helmet",
+  "guid": "cloth_helmet",
+  "possible_items": [
+    {
+      "item_id": "minecraft:iron_helmet",
+      "min_rar": "common",
+      "weight": 1000
+    },
+    {
+      "item_id": "minecraft:diamond_helmet",
+      "min_rar": "rare",
+      "weight": 1000
+    },
+    {
+      "item_id": "minecraft:netherite_helmet",
+      "min_rar": "legendary",
+      "weight": 1000
+    }
+  ],
+  "req": {
+    "base_req": {},
+    "scaling_req": {
+      "intelligence": 0.5
+    }
+  },
+  "style": "STR",
+  "tags": {
+    "tags": [
+      "armor_family",
+      "helmet",
+      "magic_shield_stat",
+      "cloth_helmet",
+      "intelligence"
+    ]
+  },
+  "weapon_type": "none",
+  "weight": 1000
+}

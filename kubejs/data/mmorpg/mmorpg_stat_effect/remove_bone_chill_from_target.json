@@ -1,0 +1,7 @@
+{
+  "effect": "bone_chill",
+  "id": "remove_bone_chill_from_target",
+  "remove_from": "Target",
+  "ser": "remove_exile_effect",
+  "stacks": 1
+}

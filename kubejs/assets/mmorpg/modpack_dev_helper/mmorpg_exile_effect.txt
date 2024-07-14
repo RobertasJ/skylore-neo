@@ -1,0 +1,34 @@
+These are all default registry entries of this type.
+This registry is modify-able through datapacks.
+agony
+blind
+bone_chill
+charm
+despair
+draconic_blood
+endurance_charge
+essence_of_frost
+fire_golem_buff
+frenzy_charge
+frost_lich
+gale_force
+ground
+ice_golem_buff
+inner_calm
+lightning_golem_buff
+mage_circle
+perseverance
+petrify
+power_charge
+rejuvenation
+shred
+slow
+stun
+taunt_stance
+thorn
+undying_will
+valor
+vamp_blood
+vigor
+weak
+wounds

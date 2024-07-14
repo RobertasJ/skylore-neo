@@ -1,0 +1,11 @@
+{
+  "type": "blood",
+  "id": "leech_blood",
+  "num_provider": {
+    "type": "NUMBER_PERCENT",
+    "calc": "number"
+  },
+  "restore_type": "leech",
+  "ser": "restore_resource",
+  "side": "Source"
+}

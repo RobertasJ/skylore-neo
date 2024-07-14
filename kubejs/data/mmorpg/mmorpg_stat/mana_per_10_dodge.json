@@ -1,0 +1,16 @@
+{
+  "data": {
+    "add_to": "mana",
+    "adder_stat": "dodge",
+    "base": 0.0,
+    "ele": "Physical",
+    "id": "mana_per_10_dodge",
+    "max": 2.14748365E9,
+    "min": 0.0,
+    "name": "§a[VAL1] §9☯ Mana§7 per 10 §2★ Dodge Rating§7",
+    "per_amount": 10,
+    "perc": true,
+    "scale": "NONE"
+  },
+  "ser": "more_x_per_y"
+}

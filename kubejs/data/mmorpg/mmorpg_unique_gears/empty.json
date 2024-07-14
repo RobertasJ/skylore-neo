@@ -1,0 +1,20 @@
+{
+  "base_gear": "sword",
+  "flavor_text": "",
+  "force_item_id": "",
+  "guid": "empty",
+  "league": "",
+  "min_tier": 0,
+  "rarity": "unique",
+  "replaces_name": true,
+  "runable": false,
+  "unique_stats": [
+    {
+      "type": "PERCENT",
+      "max": 1.0,
+      "min": 1.0,
+      "stat": "gear_weapon_damage"
+    }
+  ],
+  "weight": 0
+}

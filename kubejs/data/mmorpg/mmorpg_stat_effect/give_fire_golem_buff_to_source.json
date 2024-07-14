@@ -1,0 +1,7 @@
+{
+  "effect": "fire_golem_buff",
+  "give_to": "Source",
+  "id": "give_fire_golem_buff_to_source",
+  "seconds": 30,
+  "ser": "give_exile_effect"
+}

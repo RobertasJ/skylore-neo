@@ -1,0 +1,7 @@
+{
+  "id": "spell_has_tag_weapon_skill",
+  "ser": "spell_has_tag",
+  "tag": {
+    "id": "weapon_skill"
+  }
+}

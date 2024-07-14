@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "X": {
+      "item": "minecraft:diamond_block"
+    },
+    "Y": {
+      "item": "mmorpg:harvest/purple_gem"
+    }
+  },
+  "pattern": [
+    "YYY",
+    "YXY",
+    "YYY"
+  ],
+  "result": {
+    "item": "mmorpg:currency/entangled_unique_reroll"
+  },
+  "show_notification": true
+}

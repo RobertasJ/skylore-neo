@@ -1,0 +1,8 @@
+{
+  "action": "MULTIPLY",
+  "id": "damage_reduction",
+  "max_multi": 2.14748365E9,
+  "min_multi": 0.25,
+  "name": "Damage Reduction",
+  "priority": 102
+}

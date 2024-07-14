@@ -1,0 +1,32 @@
+{
+  "id": "ita",
+  "item_id": "mmorpg:runes/ita",
+  "min_lvl_multi": 0.0,
+  "on_armor_stats": [
+    {
+      "type": "PERCENT",
+      "max": 5.0,
+      "min": 1.0,
+      "stat": "mana_regen"
+    }
+  ],
+  "on_jewelry_stats": [
+    {
+      "type": "FLAT",
+      "max": 1.0,
+      "min": 0.2,
+      "stat": "mana_regen"
+    }
+  ],
+  "on_weapons_stats": [
+    {
+      "type": "FLAT",
+      "max": 1.0,
+      "min": 0.2,
+      "stat": "mana_on_hit_hit"
+    }
+  ],
+  "tier": 0,
+  "uses_unlucky_ran": true,
+  "weight": 1000
+}

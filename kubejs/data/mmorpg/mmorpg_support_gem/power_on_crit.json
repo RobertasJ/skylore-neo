@@ -1,0 +1,22 @@
+{
+  "id": "power_on_crit",
+  "manaMulti": 1.2,
+  "min_lvl": 10,
+  "one_of_a_kind": "",
+  "stats": [
+    {
+      "type": "FLAT",
+      "max": 5.0,
+      "min": 2.0,
+      "stat": "dmg_per_power_charge"
+    },
+    {
+      "type": "FLAT",
+      "max": 10.0,
+      "min": 3.0,
+      "stat": "power_charge_on_crit"
+    }
+  ],
+  "style": "INT",
+  "weight": 1000
+}

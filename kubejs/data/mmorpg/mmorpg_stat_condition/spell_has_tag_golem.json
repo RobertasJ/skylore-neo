@@ -1,0 +1,7 @@
+{
+  "id": "spell_has_tag_golem",
+  "ser": "spell_has_tag",
+  "tag": {
+    "id": "golem"
+  }
+}

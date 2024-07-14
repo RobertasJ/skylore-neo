@@ -1,0 +1,9 @@
+{
+  "cost_multi": 2.0,
+  "data": "mythic",
+  "id": "mythic",
+  "lvl_req": 50,
+  "modifier_type": "GEAR_RARITY",
+  "tier_req": 50,
+  "weight": 100
+}

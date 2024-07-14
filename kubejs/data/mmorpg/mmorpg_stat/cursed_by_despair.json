@@ -1,0 +1,34 @@
+{
+  "base": 0.0,
+  "effect": [
+    {
+      "effects": [
+        "give_despair_to_target"
+      ],
+      "events": [
+        "player_tick_event_10s"
+      ],
+      "ifs": [],
+      "order": "data_modification",
+      "side": "Source"
+    }
+  ],
+  "ele": "Elemental",
+  "format": "aqua",
+  "group": "Misc",
+  "gui_group": "NONE",
+  "has_softcap": false,
+  "icon": "★",
+  "id": "cursed_by_despair",
+  "is_long": true,
+  "is_perc": false,
+  "max": 1.0,
+  "min": 0.0,
+  "minus_is_good": false,
+  "multiUseType": "MULTIPLY_STAT",
+  "order": 100,
+  "scaling": "NONE",
+  "ser": "data",
+  "show_in_gui": true,
+  "softcap": 0.0
+}

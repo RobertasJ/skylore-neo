@@ -1,0 +1,7 @@
+{
+  "id": "spell_has_tag_has_pet_ability",
+  "ser": "spell_has_tag",
+  "tag": {
+    "id": "has_pet_ability"
+  }
+}

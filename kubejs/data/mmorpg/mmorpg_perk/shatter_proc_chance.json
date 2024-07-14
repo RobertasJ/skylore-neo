@@ -1,0 +1,15 @@
+{
+  "type": "STAT",
+  "icon": "mmorpg:textures/gui/stat_icons/misc/freeze_proc_chance.png",
+  "id": "shatter_proc_chance",
+  "is_entry": false,
+  "max_lvls": 1,
+  "stats": [
+    {
+      "type": "FLAT",
+      "scale_to_lvl": false,
+      "stat": "freeze_proc_chance",
+      "v1": 6.0
+    }
+  ]
+}

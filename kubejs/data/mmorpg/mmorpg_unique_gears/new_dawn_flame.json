@@ -1,0 +1,38 @@
+{
+  "base_gear": "staff",
+  "flavor_text": "",
+  "force_item_id": "",
+  "guid": "new_dawn_flame",
+  "league": "",
+  "min_tier": 0,
+  "rarity": "unique",
+  "replaces_name": true,
+  "runable": false,
+  "unique_stats": [
+    {
+      "type": "PERCENT",
+      "max": 50.0,
+      "min": 50.0,
+      "stat": "gear_weapon_damage"
+    },
+    {
+      "type": "FLAT",
+      "max": 100.0,
+      "min": 50.0,
+      "stat": "all_fire_damage"
+    },
+    {
+      "type": "FLAT",
+      "max": 25.0,
+      "min": 10.0,
+      "stat": "burn_chance"
+    },
+    {
+      "type": "FLAT",
+      "max": 25.0,
+      "min": 10.0,
+      "stat": "area_dmg"
+    }
+  ],
+  "weight": 1000
+}

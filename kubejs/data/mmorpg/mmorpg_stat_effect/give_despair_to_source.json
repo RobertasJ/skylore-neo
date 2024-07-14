@@ -1,0 +1,7 @@
+{
+  "effect": "despair",
+  "give_to": "Source",
+  "id": "give_despair_to_source",
+  "seconds": 30,
+  "ser": "give_exile_effect"
+}

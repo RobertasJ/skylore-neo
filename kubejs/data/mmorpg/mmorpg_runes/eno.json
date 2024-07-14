@@ -1,0 +1,32 @@
+{
+  "id": "eno",
+  "item_id": "mmorpg:runes/eno",
+  "min_lvl_multi": 0.3,
+  "on_armor_stats": [
+    {
+      "type": "FLAT",
+      "max": -5.0,
+      "min": -2.0,
+      "stat": "mana_cost"
+    }
+  ],
+  "on_jewelry_stats": [
+    {
+      "type": "FLAT",
+      "max": -7.0,
+      "min": -3.0,
+      "stat": "mana_cost"
+    }
+  ],
+  "on_weapons_stats": [
+    {
+      "type": "FLAT",
+      "max": -10.0,
+      "min": -4.0,
+      "stat": "mana_cost"
+    }
+  ],
+  "tier": 3,
+  "uses_unlucky_ran": true,
+  "weight": 1000
+}

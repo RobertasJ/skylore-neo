@@ -1,0 +1,15 @@
+{
+  "data": {
+    "add_to": "summon_health",
+    "adder_stat": "health",
+    "base": 0.0,
+    "ele": "Physical",
+    "id": "summon_health_per_perc_of_health",
+    "max": 2.14748365E9,
+    "min": 0.0,
+    "name": "§7Gain §a[VAL1]%§7 of your §c❤ Health§7§7 as extra §b★ Summon Health§7",
+    "perc": true,
+    "scale": "NONE"
+  },
+  "ser": "one_to_other"
+}

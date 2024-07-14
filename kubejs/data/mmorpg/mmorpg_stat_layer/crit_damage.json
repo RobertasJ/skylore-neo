@@ -1,0 +1,8 @@
+{
+  "action": "MULTIPLY",
+  "id": "crit_damage",
+  "max_multi": 2.14748365E9,
+  "min_multi": -1.0,
+  "name": "Crit Damage",
+  "priority": 2
+}

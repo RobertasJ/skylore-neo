@@ -1,0 +1,16 @@
+{
+  "id": "fire_flat_dmg",
+  "manaMulti": 1.1,
+  "min_lvl": 5,
+  "one_of_a_kind": "",
+  "stats": [
+    {
+      "type": "FLAT",
+      "max": 8.0,
+      "min": 6.0,
+      "stat": "flat_fire_added_damage"
+    }
+  ],
+  "style": "INT",
+  "weight": 1000
+}

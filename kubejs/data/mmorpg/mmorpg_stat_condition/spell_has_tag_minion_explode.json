@@ -1,0 +1,7 @@
+{
+  "id": "spell_has_tag_minion_explode",
+  "ser": "spell_has_tag",
+  "tag": {
+    "id": "minion_explode"
+  }
+}
