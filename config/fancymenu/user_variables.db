@@ -6,3 +6,9 @@ variable {
   reset_on_launch = false
 }
 
+variable {
+  name = height
+  value = 55
+  reset_on_launch = false
+}
+

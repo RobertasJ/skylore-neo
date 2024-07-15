@@ -1,19 +1,20 @@
 type = fancymenu_layout
 
 layout-meta {
-  identifier = level_loading_screen
+  identifier = %fancymenu:universal_layout%
   render_custom_elements_behind_vanilla = false
-  last_edited_time = 1721001288533
+  last_edited_time = 1721001545713
   is_enabled = true
   randommode = false
   randomgroup = 1
   randomonlyfirsttime = false
   layout_index = 0
-  [loading_requirement_container_meta:6bc95896-c13d-46d5-b19f-75751de59bbc-1721001247526] = [groups:][instances:]
+  [loading_requirement_container_meta:30d8e600-76bd-442b-8f55-0da484493071-1721001671074] = [groups:][instances:9f5b08df-4e5b-4dc2-962f-ea295753a1fc-1721001537066;]
+  [loading_requirement:fancymenu_loading_requirement_is_world_loaded][requirement_mode:if_not][req_id:9f5b08df-4e5b-4dc2-962f-ea295753a1fc-1721001537066] = 
 }
 
 menu_background {
-  image_path = [source:local]config/solidbg.png
+  image_path = [source:local]/config/fancymenu/assets/animations.fma
   slide = false
   repeat_texture = false
   background_type = image
