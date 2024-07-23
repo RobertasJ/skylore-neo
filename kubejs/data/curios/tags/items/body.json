@@ -1,0 +1,15 @@
+{
+    "replace": false,
+    "values": [
+      "skylore:synthetic_heart",
+      "skylore:nano_skin",
+      "skylore:nano_bloodstream",
+      "skylore:sensory_module",
+      "skylore:bio_skeleton",
+      "skylore:nano_weave_muscle",
+      "skylore:synthetic_lungs",
+      "skylore:bio_feedback_system",
+      "skylore:augmented_nervous_system"
+    ]
+  }
+  
