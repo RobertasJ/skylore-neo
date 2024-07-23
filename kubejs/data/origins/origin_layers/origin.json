@@ -1,13 +1,13 @@
 {
   "replace": true,
   "origins": [
-  "indrevian:indrevian",
-  "fortis:fortis",
-  "automaton:automaton",
-  "beryl:beryl",
-  "dina:laevis",
-  "human:human",
-  "dina:tenebris"
+  "skylore:indrevian",
+  "skylore:fortis",
+  "skylore:automaton",
+  "skylore:beryl",
+  "skylore:laevis",
+  "skylore:human",
+  "skylore:tenebris"
   ],
   "name": "Species"
 }

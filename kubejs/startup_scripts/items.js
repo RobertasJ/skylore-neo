@@ -21,7 +21,7 @@ StartupEvents.registry('item', event => {
     { id: 'holo_display_arm', name: 'Holo-Display Arm', description: 'Projects holographic displays.', color: 'blue' },
     { id: 'bio_skeleton', name: 'Bio-Skeleton', description: 'Reinforces the entire skeletal structure.', color: 'white' },
     { id: 'pulse_enhancer', name: 'Pulse Enhancer', description: 'Boosts bio-electric pulse efficiency.', color: 'purple' },
-    { id: 'cybernetic_hand', name: 'Cybernetic Hand', description: 'Grants enhanced dexterity and strength.', color: 'gray' },
+    { id: 'cybernetic_hand', name: 'Cybernetic Hand', description: 'Grants enhanced dexterity and strength.', color: 'dark_gray' },
     { id: 'augment_brain_chip', name: 'Augment Brain Chip', description: 'Increases cognitive functions.', color: 'green' },
     { id: 'giga_ear', name: 'Giga Ear', description: 'Enhances auditory perception.', color: 'blue' },
     { id: 'plasma_pulse_arm', name: 'Plasma Pulse Arm', description: 'Shoots plasma pulses.', color: 'red' },
@@ -29,8 +29,9 @@ StartupEvents.registry('item', event => {
     { id: 'nano_weave_muscle', name: 'Nano-Weave Muscle', description: 'Increases physical strength.', color: 'green' },
     { id: 'augment_shield', name: 'Augment Shield', description: 'Provides an energy shield.', color: 'light_purple' },
     { id: 'pulse_wrist', name: 'Pulse Wrist', description: 'Enhances pulse accuracy.', color: 'blue' },
+    { id: 'cortex_connector', name: 'Cortex Connector', description: 'Connects multiple cybernetic devices.', color: 'gray' },
     { id: 'hyper_vision_lens', name: 'Hyper-Vision Lens', description: 'Grants telescopic vision.', color: 'cyan' },
-    { id: 'servo_motor_arm', name: 'Servo Motor Arm', description: 'Increases arm strength.', color: 'gray' },
+    { id: 'servo_motor_arm', name: 'Servo Motor Arm', description: 'Increases arm strength.', color: 'dark_gray' },
     { id: 'synthetic_lungs', name: 'Synthetic Lungs', description: 'Enhances respiratory efficiency.', color: 'red' },
     { id: 'virtual_assistant_node', name: 'Virtual Assistant Node', description: 'Provides a virtual assistant.', color: 'yellow' },
     { id: 'bio_feedback_system', name: 'Bio-Feedback System', description: 'Monitors and optimizes bodily functions.', color: 'green' },
@@ -39,14 +40,16 @@ StartupEvents.registry('item', event => {
     { id: 'energy_converter', name: 'Energy Converter', description: 'Converts bio-energy to cyber-energy.', color: 'blue' },
     { id: 'augmented_nervous_system', name: 'Augmented Nervous System', description: 'Enhances neural connections.', color: 'light_purple' },
     { id: 'mech_tendons', name: 'Mech Tendons', description: 'Increases tendon strength.', color: 'gray' },
-    { id: 'cyber_brain', name: 'Cyber Brain', description: 'Enhances brain functions.', color: 'gray' },
+    { id: 'cyber_brain', name: 'Cyber Brain', description: 'Enhances brain functions.', color: 'dark_gray' },
     { id: 'nano_processor', name: 'Nano-Processor', description: 'Increases processing speed.', color: 'gold' }
   ];
 
   items.forEach(item => {
-    event.create(`skylore:${item.id}`)
+    const itemBuilder = event.create(`skylore:${item.id}`)
       .displayName(item.name)
       .tooltip([{"text": item.name, "color": item.color}, {"text": "\n" + item.description, "color": "white"}])
       .texture(`skylore:item/${item.id}`);
   });
 });
+
+

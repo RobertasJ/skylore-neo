@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"skylore:lae/stats",
+		"skylore:lae/glow",
+		"skylore:lae/size",
+		"skylore:lae/sun",
+		"skylore:lae/berries"
+	],
+	"icon": "minecraft:glow_berries",
+	"impact": 2,
+	"order": 3,
+	"name": "Laevis",
+	"description": "The 'Laevis' are a sub species of Technari. These are the sect of society of Technari that did not accept 'Mekanism' as a savior of their species. Therefore did not accept technology as a main means of living life. The Laevis set out into the universe to find a new home. Only to find Atmos instead. The Laevis upon coming to Atmos, centering around organics, discovered the glow berry and it’s properties."
+}
