@@ -242,12 +242,6 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "fabric-api-0.92.2+1.11.8+1.20.1.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5387/432/fabric-api-0.92.2%2b1.11.8%2b1.20.1.jar"
-      }
-    },
-    {
-      "installedFile": {
         "fileNameOnDisk": "fancymenu_forge_3.2.3_MC_1.20.1.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/5340/225/fancymenu_forge_3.2.3_MC_1.20.1.jar"
       }
