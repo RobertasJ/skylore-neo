@@ -32,6 +32,12 @@
     },
     {
       "installedFile": {
+        "fileNameOnDisk": "azurelib-neo-1.20.1-2.0.30.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5546/654/azurelib-neo-1.20.1-2.0.30.jar"
+      }
+    },
+    {
+      "installedFile": {
         "fileNameOnDisk": "badpackets-forge-0.4.3.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/4784/395/badpackets-forge-0.4.3.jar"
       }
@@ -56,6 +62,12 @@
     },
     {
       "installedFile": {
+        "fileNameOnDisk": "biomemusic-1.20.1-2.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5557/888/biomemusic-1.20.1-2.4.jar"
+      }
+    },
+    {
+      "installedFile": {
         "fileNameOnDisk": "BiomesOPlenty-1.20.1-18.0.0.598.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/4764/804/BiomesOPlenty-1.20.1-18.0.0.598.jar"
       }
@@ -70,6 +82,12 @@
       "installedFile": {
         "fileNameOnDisk": "Bookshelf-Forge-1.20.1-20.2.13.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/5423/987/Bookshelf-Forge-1.20.1-20.2.13.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "Botania-1.20.1-445-FORGE.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5510/199/Botania-1.20.1-445-FORGE.jar"
       }
     },
     {
@@ -104,14 +122,8 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "Chunk-Pregenerator-1.20-4.4.3.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5216/892/Chunk-Pregenerator-1.20-4.4.3.jar"
-      }
-    },
-    {
-      "installedFile": {
-        "fileNameOnDisk": "citadel-2.5.4-1.20.1.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5143/956/citadel-2.5.4-1.20.1.jar"
+        "fileNameOnDisk": "citadel-2.5.6-1.20.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5559/513/citadel-2.5.6-1.20.1.jar"
       }
     },
     {
@@ -134,8 +146,8 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "collective-1.20.1-7.71.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5529/893/collective-1.20.1-7.71.jar"
+        "fileNameOnDisk": "collective-1.20.1-7.74.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5561/322/collective-1.20.1-7.74.jar"
       }
     },
     {
@@ -170,8 +182,8 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "createbigcannons-forge-1.20.1-0.5.4.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5282/123/createbigcannons-forge-1.20.1-0.5.4.jar"
+        "fileNameOnDisk": "createbigcannons-5.5.0-mc.1.20.1-forge.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5555/936/createbigcannons-5.5.0-mc.1.20.1-forge.jar"
       }
     },
     {
@@ -212,20 +224,20 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "dynamic-fps-3.6.0+minecraft-1.20.0-forge.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5489/902/dynamic-fps-3.6.0%2bminecraft-1.20.0-forge.jar"
+        "fileNameOnDisk": "dynamic-fps-3.6.1+minecraft-1.20.0-forge.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5558/43/dynamic-fps-3.6.1%2bminecraft-1.20.0-forge.jar"
       }
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "embeddium-0.3.25+mc1.20.1.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5521/846/embeddium-0.3.25%2bmc1.20.1.jar"
+        "fileNameOnDisk": "embeddium-0.3.27+mc1.20.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5556/138/embeddium-0.3.27%2bmc1.20.1.jar"
       }
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "EnderIO-1.20.1-6.1.6-beta-all.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5517/990/EnderIO-1.20.1-6.1.6-beta-all.jar"
+        "fileNameOnDisk": "EnderIO-1.20.1-6.1.8-beta-all.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5549/669/EnderIO-1.20.1-6.1.8-beta-all.jar"
       }
     },
     {
@@ -236,8 +248,14 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "exposure-1.20.1-1.7.2-forge.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5499/997/exposure-1.20.1-1.7.2-forge.jar"
+        "fileNameOnDisk": "exposure-1.20.1-1.7.4-forge.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5547/616/exposure-1.20.1-1.7.4-forge.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "fabric-api-0.92.2+1.11.8+1.20.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5387/432/fabric-api-0.92.2%2b1.11.8%2b1.20.1.jar"
       }
     },
     {
@@ -254,8 +272,20 @@
     },
     {
       "installedFile": {
+        "fileNameOnDisk": "FastLeafDecay-32.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5375/681/FastLeafDecay-32.jar"
+      }
+    },
+    {
+      "installedFile": {
         "fileNameOnDisk": "ferritecore-6.0.1-forge.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/4810/975/ferritecore-6.0.1-forge.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "framework-forge-1.20.1-0.7.6.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5388/226/framework-forge-1.20.1-0.7.6.jar"
       }
     },
     {
@@ -274,6 +304,12 @@
       "installedFile": {
         "fileNameOnDisk": "HangGlider-v8.0.1-1.20.1-Forge.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/4710/223/HangGlider-v8.0.1-1.20.1-Forge.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "Heracles-forge-1.20.1-1.1.13.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5406/935/Heracles-forge-1.20.1-1.1.13.jar"
       }
     },
     {
@@ -326,14 +362,8 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "jei-1.20.1-forge-15.8.0.11.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5533/463/jei-1.20.1-forge-15.8.0.11.jar"
-      }
-    },
-    {
-      "installedFile": {
-        "fileNameOnDisk": "jerintegration-5.5.0.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5281/932/jerintegration-5.5.0.jar"
+        "fileNameOnDisk": "jei-1.20.1-forge-15.8.0.18.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5564/783/jei-1.20.1-forge-15.8.0.18.jar"
       }
     },
     {
@@ -346,12 +376,6 @@
       "installedFile": {
         "fileNameOnDisk": "JourneyMap-Teams-forge-1.20.1-1.1.0.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/4805/76/JourneyMap-Teams-forge-1.20.1-1.1.0.jar"
-      }
-    },
-    {
-      "installedFile": {
-        "fileNameOnDisk": "JustEnoughResources-1.20.1-1.4.0.247.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5057/220/JustEnoughResources-1.20.1-1.4.0.247.jar"
       }
     },
     {
@@ -392,6 +416,12 @@
     },
     {
       "installedFile": {
+        "fileNameOnDisk": "lootjs-forge-1.20.1-2.12.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5404/565/lootjs-forge-1.20.1-2.12.0.jar"
+      }
+    },
+    {
+      "installedFile": {
         "fileNameOnDisk": "lootr-forge-1.20-0.7.34.86.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/5420/132/lootr-forge-1.20-0.7.34.86.jar"
       }
@@ -400,6 +430,18 @@
       "installedFile": {
         "fileNameOnDisk": "Mekanism-1.20.1-10.4.8.43.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/5395/221/Mekanism-1.20.1-10.4.8.43.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "mekanism_lasers-1.0.8.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5535/125/mekanism_lasers-1.0.8.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "mekanism_turrets-1.1.7.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5562/530/mekanism_turrets-1.1.7.jar"
       }
     },
     {
@@ -422,14 +464,20 @@
     },
     {
       "installedFile": {
+        "fileNameOnDisk": "MekanismWeapons-1.20.1-1.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5126/770/MekanismWeapons-1.20.1-1.5.jar"
+      }
+    },
+    {
+      "installedFile": {
         "fileNameOnDisk": "melody_forge_1.0.3_MC_1.20.1-1.20.4.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/5109/692/melody_forge_1.0.3_MC_1.20.1-1.20.4.jar"
       }
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "Mine_and_Slash-1.20.1-5.5.20.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5527/906/Mine_and_Slash-1.20.1-5.5.20.jar"
+        "fileNameOnDisk": "Mine_and_Slash-1.20.1-5.5.22.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5554/785/Mine_and_Slash-1.20.1-5.5.22.jar"
       }
     },
     {
@@ -440,8 +488,8 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "modernfix-forge-5.18.6+mc1.20.1.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5512/356/modernfix-forge-5.18.6%2bmc1.20.1.jar"
+        "fileNameOnDisk": "modernfix-forge-5.18.10+mc1.20.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5541/516/modernfix-forge-5.18.10%2bmc1.20.1.jar"
       }
     },
     {
@@ -454,12 +502,6 @@
       "installedFile": {
         "fileNameOnDisk": "MouseTweaks-forge-mc1.20.1-2.25.1.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/5338/457/MouseTweaks-forge-mc1.20.1-2.25.1.jar"
-      }
-    },
-    {
-      "installedFile": {
-        "fileNameOnDisk": "music_player-forge-1.20.1-2.7.0.267.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5526/287/music_player-forge-1.20.1-2.7.0.267.jar"
       }
     },
     {
@@ -488,8 +530,20 @@
     },
     {
       "installedFile": {
+        "fileNameOnDisk": "Patchouli-1.20.1-84-FORGE.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/4966/125/Patchouli-1.20.1-84-FORGE.jar"
+      }
+    },
+    {
+      "installedFile": {
         "fileNameOnDisk": "Prism-1.20.1-forge-1.0.5.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/4650/325/Prism-1.20.1-forge-1.0.5.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "probejs-7.0.1-forge.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5457/28/probejs-7.0.1-forge.jar"
       }
     },
     {
@@ -530,6 +584,12 @@
     },
     {
       "installedFile": {
+        "fileNameOnDisk": "resourcefullib-forge-1.20.1-2.1.25.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5361/260/resourcefullib-forge-1.20.1-2.1.25.jar"
+      }
+    },
+    {
+      "installedFile": {
         "fileNameOnDisk": "rhino-forge-2001.2.2-build.18.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/4944/325/rhino-forge-2001.2.2-build.18.jar"
       }
@@ -566,6 +626,12 @@
     },
     {
       "installedFile": {
+        "fileNameOnDisk": "SmartBrainLib-forge-1.20.1-1.14.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5513/411/SmartBrainLib-forge-1.20.1-1.14.2.jar"
+      }
+    },
+    {
+      "installedFile": {
         "fileNameOnDisk": "smoothchunk-1.20.1-3.6.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/5138/123/smoothchunk-1.20.1-3.6.jar"
       }
@@ -585,7 +651,7 @@
     {
       "installedFile": {
         "fileNameOnDisk": "tfmg-0.9.0d-1.20.1.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5505/872/tfmg-0.9.0d-1.20.1.jar"
+        "downloadUrl": "https://edge.forgecdn.net/files/5558/101/tfmg-0.9.0d-1.20.1.jar"
       }
     },
     {

@@ -1,0 +1,41 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "translate": "Find the emergency supplies left from the crash."
+    },
+    "description": [
+      "**CRASH DETECTED**",
+      "---------------------------"
+    ],
+    "groups": {
+      "Survival 101": {
+        "position": [
+          -921,
+          -645
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "lootr:lootr_chest",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/gears.png",
+    "title": {
+      "translate": "Find Emergency Supplies"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": true,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

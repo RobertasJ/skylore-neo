@@ -11,6 +11,7 @@
 !config/starterstructure.json5
 !config/alexsmobs.toml
 !WIPmods/**
+!config/heracles/**
 
 # scripts
 !scripts/**
