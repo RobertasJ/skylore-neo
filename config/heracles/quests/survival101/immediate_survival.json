@@ -1,0 +1,38 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [],
+    "groups": {
+      "Survival 101": {
+        "position": [
+          -861,
+          -643
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:campfire",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Immediate Survival"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}

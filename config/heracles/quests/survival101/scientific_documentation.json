@@ -1,0 +1,38 @@
+{
+  "dependencies": [],
+  "tasks": {},
+  "rewards": {},
+  "display": {
+    "subtitle": {
+      "text": ""
+    },
+    "description": [],
+    "groups": {
+      "Survival 101": {
+        "position": [
+          -381,
+          -643
+        ]
+      }
+    },
+    "icon": {
+      "item": {
+        "id": "minecraft:glass_bottle",
+        "count": 1
+      },
+      "type": "heracles:item"
+    },
+    "icon_background": "heracles:textures/gui/quest_backgrounds/default.png",
+    "title": {
+      "translate": "Scientific Documentation"
+    }
+  },
+  "settings": {
+    "showDependencyArrow": true,
+    "repeatable": false,
+    "autoClaimRewards": false,
+    "individual_progress": false,
+    "hidden": "LOCKED",
+    "unlockNotification": false
+  }
+}
