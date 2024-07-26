@@ -2,6 +2,18 @@
   "installedAddons": [
     {
       "installedFile": {
+        "fileNameOnDisk": "ad_astra-forge-1.20.1-1.15.18.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5116/766/ad_astra-forge-1.20.1-1.15.18.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "ad_astra_rocketed-forge-1.20.1-1.0.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5245/376/ad_astra_rocketed-forge-1.20.1-1.0.5.jar"
+      }
+    },
+    {
+      "installedFile": {
         "fileNameOnDisk": "AdvancementPlaques-1.20.1-forge-1.5.1.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/4930/510/AdvancementPlaques-1.20.1-forge-1.5.1.jar"
       }
@@ -16,6 +28,12 @@
       "installedFile": {
         "fileNameOnDisk": "almostunified-forge-1.20.1-0.9.4.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/5517/426/almostunified-forge-1.20.1-0.9.4.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "Apugli-2.10.2+1.20.1-forge.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5354/437/Apugli-2.10.2%2b1.20.1-forge.jar"
       }
     },
     {
@@ -46,6 +64,12 @@
       "installedFile": {
         "fileNameOnDisk": "balm-forge-1.20.1-7.3.6-all.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/5467/600/balm-forge-1.20.1-7.3.6-all.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "better_creative_tabs-0.0.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5462/438/better_creative_tabs-0.0.2.jar"
       }
     },
     {
@@ -188,6 +212,12 @@
     },
     {
       "installedFile": {
+        "fileNameOnDisk": "create_ad_astra_compat-forge-1.20.1-1.0.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5252/441/create_ad_astra_compat-forge-1.20.1-1.0.0.jar"
+      }
+    },
+    {
+      "installedFile": {
         "fileNameOnDisk": "create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/5232/178/create_central_kitchen-1.20.1-for-create-0.5.1.f-1.3.12.jar"
       }
@@ -266,8 +296,8 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "embeddium-0.3.27+mc1.20.1.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5556/138/embeddium-0.3.27%2bmc1.20.1.jar"
+        "fileNameOnDisk": "embeddium-0.3.28+mc1.20.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5566/632/embeddium-0.3.28%2bmc1.20.1.jar"
       }
     },
     {
@@ -284,8 +314,8 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "exposure-1.20.1-1.7.4-forge.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5547/616/exposure-1.20.1-1.7.4-forge.jar"
+        "fileNameOnDisk": "exposure-1.20.1-1.7.5-forge.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5565/373/exposure-1.20.1-1.7.5-forge.jar"
       }
     },
     {
@@ -410,20 +440,8 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "jei-1.20.1-forge-15.8.0.18.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5564/783/jei-1.20.1-forge-15.8.0.18.jar"
-      }
-    },
-    {
-      "installedFile": {
-        "fileNameOnDisk": "journeymap-1.20.1-5.10.1-forge.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5540/985/journeymap-1.20.1-5.10.1-forge.jar"
-      }
-    },
-    {
-      "installedFile": {
-        "fileNameOnDisk": "JourneyMap-Teams-forge-1.20.1-1.1.0.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/4805/76/JourneyMap-Teams-forge-1.20.1-1.1.0.jar"
+        "fileNameOnDisk": "jei-1.20.1-forge-15.8.2.23.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5567/914/jei-1.20.1-forge-15.8.2.23.jar"
       }
     },
     {
@@ -476,6 +494,12 @@
     },
     {
       "installedFile": {
+        "fileNameOnDisk": "lunarnether-0.3.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5566/461/lunarnether-0.3.0.jar"
+      }
+    },
+    {
+      "installedFile": {
         "fileNameOnDisk": "Mekanism-1.20.1-10.4.8.43.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/5395/221/Mekanism-1.20.1-10.4.8.43.jar"
       }
@@ -524,8 +548,8 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "Mine_and_Slash-1.20.1-5.5.22.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5554/785/Mine_and_Slash-1.20.1-5.5.22.jar"
+        "fileNameOnDisk": "Mine_and_Slash-1.20.1-5.5.25.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5567/406/Mine_and_Slash-1.20.1-5.5.25.jar"
       }
     },
     {
@@ -632,8 +656,14 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "resourcefullib-forge-1.20.1-2.1.25.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5361/260/resourcefullib-forge-1.20.1-2.1.25.jar"
+        "fileNameOnDisk": "resourcefulconfig-forge-1.20.1-2.1.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5020/441/resourcefulconfig-forge-1.20.1-2.1.2.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "resourcefullib-forge-1.20.1-2.1.28.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5568/216/resourcefullib-forge-1.20.1-2.1.28.jar"
       }
     },
     {
@@ -698,6 +728,12 @@
     },
     {
       "installedFile": {
+        "fileNameOnDisk": "tempad-forge-1.20.1-2.3.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5515/64/tempad-forge-1.20.1-2.3.4.jar"
+      }
+    },
+    {
+      "installedFile": {
         "fileNameOnDisk": "TerraBlender-forge-1.20.1-3.0.1.7.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/5378/180/TerraBlender-forge-1.20.1-3.0.1.7.jar"
       }
@@ -728,6 +764,12 @@
     },
     {
       "installedFile": {
+        "fileNameOnDisk": "trimmed-forge-1.20.1-2.1.4-all.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/4845/938/trimmed-forge-1.20.1-2.1.4-all.jar"
+      }
+    },
+    {
+      "installedFile": {
         "fileNameOnDisk": "u_team_core-forge-1.20.1-5.1.4.312.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/5523/168/u_team_core-forge-1.20.1-5.1.4.312.jar"
       }
@@ -736,6 +778,18 @@
       "installedFile": {
         "fileNameOnDisk": "valkyrienskies-120-2.3.0-beta.5.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/5212/232/valkyrienskies-120-2.3.0-beta.5.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "Xaeros_Minimap_24.2.0_Forge_1.20.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5394/772/Xaeros_Minimap_24.2.0_Forge_1.20.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "XaerosWorldMap_1.38.8_Forge_1.20.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5394/829/XaerosWorldMap_1.38.8_Forge_1.20.jar"
       }
     },
     {

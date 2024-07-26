@@ -4,3 +4,5 @@ Geology
 Culinary
 Engineering
 Transport
+Mechanical
+Weapons

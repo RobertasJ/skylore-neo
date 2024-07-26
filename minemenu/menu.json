@@ -1,5 +1,41 @@
 {
   "main": {
+    "3": {
+      "title": "Curios",
+      "icon": {
+        "stack": "{Count:1b,id:\"botania:bauble_box\"}"
+      },
+      "action": {
+        "key": {
+          "key": "key.curios.open.desc",
+          "toggle": false
+        }
+      }
+    },
+    "4": {
+      "title": "Mapping",
+      "icon": {
+        "stack": "{Count:1b,id:\"ad_astra:earth_globe\"}"
+      },
+      "action": {
+        "key": {
+          "key": "gui.xaero_open_map",
+          "toggle": false
+        }
+      }
+    },
+    "5": {
+      "title": "Tempad (when equipped)",
+      "icon": {
+        "stack": "{Count:1b,id:\"tempad:tempad\",tag:{}}"
+      },
+      "action": {
+        "key": {
+          "key": "key.tempad.shortcut",
+          "toggle": false
+        }
+      }
+    },
     "6": {
       "title": "Advancements",
       "icon": {
@@ -8,7 +44,7 @@
       "action": {
         "key": {
           "key": "key.advancements",
-          "toggle": true
+          "toggle": false
         }
       }
     },
@@ -20,7 +56,7 @@
       "action": {
         "key": {
           "key": "key.heracles.open_quests",
-          "toggle": true
+          "toggle": false
         }
       }
     },
@@ -41,7 +77,7 @@
       "action": {
         "key": {
           "key": "hub_screen",
-          "toggle": true
+          "toggle": false
         }
       }
     }

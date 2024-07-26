@@ -1,7 +1,7 @@
 {
   "type": "START",
   "icon": "mmorpg:textures/gui/stat_icons/start/wind.png",
-  "id": "wind"
+  "id": "wind",
   "is_entry": true,
   "max_lvls": 1,
   "one_kind": "start",
