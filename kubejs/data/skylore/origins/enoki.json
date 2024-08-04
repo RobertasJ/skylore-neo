@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"skylore:enoki/fast_metabolism",
+		"skylore:enoki/pacifism",
+		"skylore:enoki/high_health",
+		"skylore:enoki/omni_stomach",
+		"skylore:enoki/heal"
+	],
+	"icon": "minecraft:mycelium",
+	"order": 10,
+	"impact": 1,
+	 "name": "Enoki",
+	 "description": "§oA Passive species. The Enoki are a mycelium based species that can digest most things. They do not like combat, so when attacked they become weaker. They have massive prowess in alchemy and cooking as they are always trying to search for the best recipes. Enoki are known to be the best chef's in the universe. Their love for new flavors, ingredients and protein sources drives them to cooperate with other beings in the exploration of the universe."
+}
+

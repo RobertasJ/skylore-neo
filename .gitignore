@@ -23,3 +23,6 @@
 !sync.bat
 
 !mod_list.json
+kubejs/server_scripts/orestages.js
+
+kubejs/client_scripts/modlist.js

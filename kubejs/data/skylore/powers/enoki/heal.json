@@ -1,0 +1,102 @@
+{
+    "type": "apoli:multiple",
+
+    "team": {
+        "type": "apoli:action_on_callback",
+        "entity_action_gained": {
+            "type": "apoli:and",
+            "actions": [
+                {
+                    "type": "apoli:execute_command",
+                    "command": "team add enoki"
+                },
+                {
+                    "type": "apoli:execute_command",
+                    "command": "team join enoki"
+                }
+            ]
+        },
+        "entity_action_lost": {
+            "type": "apoli:execute_command",
+            "command": "team leave @s"
+        }
+    },
+
+    "passive": {
+        "type": "apoli:action_over_time",
+        "entity_action": {
+            "type": "apoli:and",
+            "actions": [
+                {
+                    "type": "apoli:apply_effect",
+                    "effect": {
+                        "effect": "minecraft:regeneration",
+                        "amplifier": 0,
+                        "duration": 40
+                    }
+                },
+                {
+                    "type": "apoli:exhaust",
+                    "amount": 0.5
+                }
+            ]
+        },
+        "condition": {
+            "type": "apoli:command",
+            "command": "execute if entity @e[type=minecraft:player,team=!enoki,distance=..10]",
+            "comparison": ">",
+            "compare_to": 0
+        }
+    },
+
+    "heal": {
+        "type": "apoli:active_self",
+        "entity_action": {
+            "type": "apoli:raycast",
+            "distance": 15,
+            "fluid_handling": "none",
+            "bientity_action": {
+                "type": "apoli:target_action",
+                "action": {
+                    "type": "apoli:heal",
+                    "amount": 4
+                }
+            },
+            "hit_action": {
+                "type": "apoli:if_else",
+                "condition": {
+                    "type": "apoli:living"
+                },
+                "if_action": {
+                    "type": "apoli:exhaust",
+                    "amount": 2
+                }
+            }
+        },
+        "condition": {
+            "type": "apoli:food_level",
+            "compare_to": 6,
+            "comparison": ">"
+        },
+        "cooldown": 600,
+        "key": "key.origins.primary_active",
+        "hud_render": {
+            "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_02.png",
+            "bar_index": 9
+        }
+    },
+    "badges": [
+        {
+            "type": "origins:tooltip",
+            "sprite": "minecraft:textures/mob_effect/regeneration.png",
+            "text": "Your life will slowly regenerate if you are near other players (doesn't count other Enoki's)"
+        },
+        {
+            "type": "origins:keybind",
+            "sprite": "origins:textures/gui/badge/active.png",
+            "text": "Use %s while looking at an entity to heal it for the cost of your hunger."
+        }
+    ],
+    "name": "Friendly",
+    "description": "Being around other species allows you to recover. You can also use your energy to heal another creature."
+}

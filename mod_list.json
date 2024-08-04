@@ -140,8 +140,8 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "cc-tweaked-1.20.1-forge-1.111.0.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5379/173/cc-tweaked-1.20.1-forge-1.111.0.jar"
+        "fileNameOnDisk": "cc-tweaked-1.20.1-forge-1.112.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5582/994/cc-tweaked-1.20.1-forge-1.112.0.jar"
       }
     },
     {
@@ -158,8 +158,8 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "clockwork-1.20.1-0.1.13-forge-8cf946b78e.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5171/534/clockwork-1.20.1-0.1.13-forge-8cf946b78e.jar"
+        "fileNameOnDisk": "clockwork-1.20.1-0.1.16-forge-b3b22e39fe.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5580/456/clockwork-1.20.1-0.1.16-forge-b3b22e39fe.jar"
       }
     },
     {
@@ -176,8 +176,8 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "collective-1.20.1-7.74.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5561/322/collective-1.20.1-7.74.jar"
+        "fileNameOnDisk": "collective-1.20.1-7.80.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5575/74/collective-1.20.1-7.80.jar"
       }
     },
     {
@@ -190,6 +190,24 @@
       "installedFile": {
         "fileNameOnDisk": "Controlling-forge-1.20.1-12.0.2.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/4646/682/Controlling-forge-1.20.1-12.0.2.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "corgilib-forge-1.20.1-4.0.2.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5573/963/corgilib-forge-1.20.1-4.0.2.0.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "coroutil-forge-1.20.1-1.3.7.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5096/38/coroutil-forge-1.20.1-1.3.7.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "CraftTweaker-forge-1.20.1-14.0.40.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5375/591/CraftTweaker-forge-1.20.1-14.0.40.jar"
       }
     },
     {
@@ -290,8 +308,20 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "dynamic-fps-3.6.1+minecraft-1.20.0-forge.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5558/43/dynamic-fps-3.6.1%2bminecraft-1.20.0-forge.jar"
+        "fileNameOnDisk": "Drones-1.0.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/4978/359/Drones-1.0.3.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "dynamic-fps-3.6.3+minecraft-1.20.0-forge.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5574/86/dynamic-fps-3.6.3%2bminecraft-1.20.0-forge.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "easy_npc-forge-1.20.1-5.4.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5590/665/easy_npc-forge-1.20.1-5.4.1.jar"
       }
     },
     {
@@ -356,8 +386,56 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "garnished-1.8.8+1.20.1-neoforged.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5458/721/garnished-1.8.8%2b1.20.1-neoforged.jar"
+        "fileNameOnDisk": "ftb-chunks-forge-2001.3.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5378/90/ftb-chunks-forge-2001.3.1.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "ftb-essentials-forge-2001.2.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/4896/152/ftb-essentials-forge-2001.2.2.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "ftb-library-forge-2001.2.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5567/591/ftb-library-forge-2001.2.4.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "ftb-quests-forge-2001.4.8.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5543/955/ftb-quests-forge-2001.4.8.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "ftb-teams-forge-2001.3.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5267/190/ftb-teams-forge-2001.3.0.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "ftb-ultimine-forge-2001.1.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5363/345/ftb-ultimine-forge-2001.1.5.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "ftb-xmod-compat-forge-2.1.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5257/897/ftb-xmod-compat-forge-2.1.1.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "GameStages-Forge-1.20.1-15.0.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/4648/424/GameStages-Forge-1.20.1-15.0.1.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "garnished-1.9.4+1.20.1-neoforged.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5573/557/garnished-1.9.4%2b1.20.1-neoforged.jar"
       }
     },
     {
@@ -382,12 +460,6 @@
       "installedFile": {
         "fileNameOnDisk": "HangGlider-v8.0.1-1.20.1-Forge.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/4710/223/HangGlider-v8.0.1-1.20.1-Forge.jar"
-      }
-    },
-    {
-      "installedFile": {
-        "fileNameOnDisk": "Heracles-forge-1.20.1-1.1.13.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5406/935/Heracles-forge-1.20.1-1.1.13.jar"
       }
     },
     {
@@ -428,20 +500,26 @@
     },
     {
       "installedFile": {
+        "fileNameOnDisk": "ItemStages-Forge-1.20.1-8.0.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5214/94/ItemStages-Forge-1.20.1-8.0.3.jar"
+      }
+    },
+    {
+      "installedFile": {
         "fileNameOnDisk": "Jade-1.20.1-forge-11.9.4.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/5493/390/Jade-1.20.1-forge-11.9.4.jar"
       }
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "JadeAddons-1.20.1-forge-5.2.2.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/4925/840/JadeAddons-1.20.1-forge-5.2.2.jar"
+        "fileNameOnDisk": "JadeAddons-1.20.1-Forge-5.3.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5591/893/JadeAddons-1.20.1-Forge-5.3.0.jar"
       }
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "jei-1.20.1-forge-15.8.2.23.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5567/914/jei-1.20.1-forge-15.8.2.23.jar"
+        "fileNameOnDisk": "jei-1.20.1-forge-15.8.2.25.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5576/551/jei-1.20.1-forge-15.8.2.25.jar"
       }
     },
     {
@@ -476,8 +554,8 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "Library_of_Exile-1.20.1-1.4.4.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5484/974/Library_of_Exile-1.20.1-1.4.4.jar"
+        "fileNameOnDisk": "Library_of_Exile-1.20.1-1.4.6.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5586/112/Library_of_Exile-1.20.1-1.4.6.jar"
       }
     },
     {
@@ -494,8 +572,8 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "lunarnether-0.3.0.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5566/461/lunarnether-0.3.0.jar"
+        "fileNameOnDisk": "lunarnether-0.3.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5573/209/lunarnether-0.3.1.jar"
       }
     },
     {
@@ -512,8 +590,8 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "mekanism_turrets-1.1.7.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5562/530/mekanism_turrets-1.1.7.jar"
+        "fileNameOnDisk": "mekanism_turrets-1.1.8.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5591/821/mekanism_turrets-1.1.8.jar"
       }
     },
     {
@@ -548,8 +626,8 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "Mine_and_Slash-1.20.1-5.5.25.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5567/406/Mine_and_Slash-1.20.1-5.5.25.jar"
+        "fileNameOnDisk": "Mine_and_Slash-1.20.1-5.5.27.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5586/226/Mine_and_Slash-1.20.1-5.5.27.jar"
       }
     },
     {
@@ -560,8 +638,8 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "modernfix-forge-5.18.10+mc1.20.1.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5541/516/modernfix-forge-5.18.10%2bmc1.20.1.jar"
+        "fileNameOnDisk": "modernfix-forge-5.19.0+mc1.20.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5569/652/modernfix-forge-5.19.0%2bmc1.20.1.jar"
       }
     },
     {
@@ -596,6 +674,18 @@
     },
     {
       "installedFile": {
+        "fileNameOnDisk": "Oh The Trees You'll Grow-forge-1.20.1-1.2.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5540/975/Oh%20The%20Trees%20You%27ll%20Grow-forge-1.20.1-1.2.0.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "Oh-The-Biomes-Weve-Gone-Forge-1.0.4-Beta.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5590/719/Oh-The-Biomes-Weve-Gone-Forge-1.0.4-Beta.jar"
+      }
+    },
+    {
+      "installedFile": {
         "fileNameOnDisk": "origins-forge-1.20.1-1.10.0.9-all.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/5314/209/origins-forge-1.20.1-1.10.0.9-all.jar"
       }
@@ -626,8 +716,26 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "ramcompat-1.20.1-0.1.3.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5272/328/ramcompat-1.20.1-0.1.3.jar"
+        "fileNameOnDisk": "questsadditions-1.4.3a.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/4799/757/questsadditions-1.4.3a.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "ramcompat-1.20.1-0.1.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5586/345/ramcompat-1.20.1-0.1.4.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "RecipeStages-8.0.0.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5173/574/RecipeStages-8.0.0.2.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "redimstages-1.0.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5091/980/redimstages-1.0.0.jar"
       }
     },
     {
@@ -644,8 +752,8 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "relics-1.20.1-0.6.5.2.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5435/202/relics-1.20.1-0.6.5.2.jar"
+        "fileNameOnDisk": "relics-1.20.1-0.8.0.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5592/431/relics-1.20.1-0.8.0.4.jar"
       }
     },
     {
@@ -676,6 +784,12 @@
       "installedFile": {
         "fileNameOnDisk": "scannable-MC1.20.1-forge-1.7.12+18ccb75.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/4763/70/scannable-MC1.20.1-forge-1.7.12+18ccb75.jar"
+      }
+    },
+    {
+      "installedFile": {
+        "fileNameOnDisk": "sdm_orestages-1.20.1-0.5.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5589/197/sdm_orestages-1.20.1-0.5.jar"
       }
     },
     {
@@ -716,8 +830,8 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "starterstructure-1.20.1-3.6.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5280/725/starterstructure-1.20.1-3.6.jar"
+        "fileNameOnDisk": "starterstructure-1.20.1-3.9.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5571/739/starterstructure-1.20.1-3.9.jar"
       }
     },
     {
@@ -742,12 +856,6 @@
       "installedFile": {
         "fileNameOnDisk": "tfmg-0.9.0d-1.20.1.jar",
         "downloadUrl": "https://edge.forgecdn.net/files/5558/101/tfmg-0.9.0d-1.20.1.jar"
-      }
-    },
-    {
-      "installedFile": {
-        "fileNameOnDisk": "thitemstages-1.20.1-0.2.1.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/4836/385/thitemstages-1.20.1-0.2.1.jar"
       }
     },
     {
@@ -782,14 +890,8 @@
     },
     {
       "installedFile": {
-        "fileNameOnDisk": "Xaeros_Minimap_24.2.0_Forge_1.20.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5394/772/Xaeros_Minimap_24.2.0_Forge_1.20.jar"
-      }
-    },
-    {
-      "installedFile": {
-        "fileNameOnDisk": "XaerosWorldMap_1.38.8_Forge_1.20.jar",
-        "downloadUrl": "https://edge.forgecdn.net/files/5394/829/XaerosWorldMap_1.38.8_Forge_1.20.jar"
+        "fileNameOnDisk": "weather2-1.20.1-2.8.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/5244/118/weather2-1.20.1-2.8.3.jar"
       }
     },
     {

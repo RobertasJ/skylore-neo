@@ -1,0 +1,11 @@
+{
+    "type": "apoli:attribute",
+    "modifier": {
+        "attribute": "minecraft:generic.max_health",
+        "operation": "addition",
+        "value": 10
+    },
+    "update_health": true,
+    "name": "High Health",
+    "description": "You make up for your lack of strength with health."
+}

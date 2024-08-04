@@ -1,0 +1,14 @@
+{
+    "type": "apugli:edible_item",
+    "item_condition": {
+        "type": "apoli:food",
+        "inverted": true
+    },
+    "food_component": {
+        "hunger": 4,
+        "saturation": 0.4
+    },
+    "use_action": "eat",
+    "name": "Omni Stomach",
+    "description": "Your digestive system allows you to eat virtually anything."
+}

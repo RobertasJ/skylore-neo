@@ -1,0 +1,84 @@
+{
+    "type": "apoli:multiple",
+    
+    "timer": {
+        "type": "apoli:resource",
+        "min": 0,
+        "max": 30,
+        "hud_render": {
+            "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_02.png",
+            "bar_index": 22,
+            "condition": {
+                "type": "apoli:resource",
+                "resource": "*:*_timer",
+                "comparison": ">",
+                "compare_to": 0
+            }
+        }
+    },
+
+    "timer_lose": {
+        "type": "apoli:action_over_time",
+        "entity_action": {
+            "type": "apoli:change_resource",
+            "resource": "*:*_timer",
+            "operation": "add",
+            "change": -1
+        },
+        "condition": {
+            "type": "apoli:resource",
+            "resource": "*:*_timer",
+            "comparison": ">",
+            "compare_to": 0
+        },
+        "interval": 20
+    },
+
+    "pac": {
+        "type": "apoli:conditioned_attribute",
+        "modifier": {
+            "attribute": "minecraft:generic.attack_damage",
+            "operation": "multiply_base",
+            "value": -0.9
+        },
+        "condition": {
+            "type": "apoli:resource",
+            "resource": "*:*_timer",
+            "comparison": ">",
+            "compare_to": 0
+        }
+    },
+
+    "pac2": {
+        "type": "apoli:modify_projectile_damage",
+        "modifier": {
+            "operation": "multiply_base",
+            "value": -0.9
+        },
+        "condition": {
+            "type": "apoli:resource",
+            "resource": "*:*_timer",
+            "comparison": ">",
+            "compare_to": 0
+        }
+    },
+
+    "on_hit": {
+        "type": "apoli:self_action_when_hit",
+        "entity_action": {
+            "type": "apoli:change_resource",
+            "resource": "*:*_timer",
+            "operation": "set",
+            "change": 30
+        }
+    },
+    "badges": [
+        {
+            "type": "origins:tooltip",
+            "sprite": "minecraft:textures/block/oak_leaves.png",
+            "text": "After being hit, your damage will be lowered for the next 30 seconds.\n\n§6Sygnalised by green bar with a leaf above your hunger bar."
+        }
+    ],
+    "name": "Pacifism",
+    "description": "You don't like fighting, so if someone hits you, you don't want to hurt them."
+}

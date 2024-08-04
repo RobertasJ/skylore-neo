@@ -13,13 +13,13 @@
       }
     },
     "4": {
-      "title": "Mapping",
+      "title": "Map",
       "icon": {
-        "stack": "{Count:1b,id:\"ad_astra:earth_globe\"}"
+        "stack": "{Count:1b,id:\"minecraft:filled_map\"}"
       },
       "action": {
         "key": {
-          "key": "gui.xaero_open_map",
+          "key": "key.ftbchunks.map",
           "toggle": false
         }
       }
@@ -51,11 +51,11 @@
     "7": {
       "title": "Research",
       "icon": {
-        "stack": "{Count:1b,id:\"mmorpg:potion/health/0\"}"
+        "stack": "{Count:1b,id:\"mmorpg:potions/reset_spells\"}"
       },
       "action": {
         "key": {
-          "key": "key.heracles.open_quests",
+          "key": "key.ftbquests.quests",
           "toggle": false
         }
       }
